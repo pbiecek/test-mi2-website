@@ -166,8 +166,6 @@ Materials from past seminars: https://github.com/mi2-warsaw/MI2DataLab_Seminariu
 
 ![images/projects_xlungs.jpg](images/projects_xlungs.jpg)
 
-[comment]: <> (<img src="images/projects_xlungs.jpg">)
-
 The aim of the project is to support the process of identification of lesions visible on CT and lung x-rays. We intend to achieve this goal by building an information system based on artificial intelligence (AI) that will support the radiologist's work by enriching the images with additional information.
 
 The unique feature of the proposed system is a trustworthy artificial intelligence module that:
