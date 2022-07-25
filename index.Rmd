@@ -212,13 +212,13 @@ GitHub: [kozaka93](https://github.com/kozaka93)
 
 LinkedIn: [kozakanna](https://www.linkedin.com/in/kozakanna)
   
-### Anna Kozak {-}
+### Adam Kozłowski {-}
 
 <img src="images/akozlowski.jpg" >
 
 Graduated in Computer Science at ICM at the University of Warsaw. Currently working in a lab as Research Software Engineer in xLungs. Interested in image processing, deep learning on medical images, and computation acceleration.
 
-GitHub: [kozaka93](https://github.com/kozaka93)
+GitHub: [adam-kozlowski-280](https://github.com/adam-kozlowski-280)
 
 LinkedIn: [akozowski280]([https://www.linkedin.com/in/kozakanna](https://www.linkedin.com/in/adam-kozlowski-akozowski280/))
 
