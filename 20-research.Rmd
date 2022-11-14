@@ -20,6 +20,42 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 
 
 <div>
+<img src="images/gdf.png">
+<a href="https://doi.org/10.1038/s41598-022-21417-8">Multi-omics disease module detection with an explainable Greedy Decision Forest</a>
+<p>Bastian Pfeifer, Hubert Baniecki, Anna Saranti, Przemyslaw Biecek, Andreas Holzinger</p>
+<p><i>Scientific Reports (2022)</i></p>
+In this work, we demonstrate subnetwork detection based on multi-modal node features using a novel Greedy Decision Forest (GDF) with inherent interpretability. The latter will be a crucial factor to retain experts and gain their trust in such algorithms. To demonstrate a concrete application example, we focus on bioinformatics, systems biology and particularly biomedicine, but the presented methodology is applicable in many other domains as well. Our proposed explainable approach can help to uncover disease-causing network modules from multi-omics data to better understand complex diseases such as cancer.
+</div>
+
+
+<div>
+<img src="images/epp_diagram.png">
+<a href="https://www.nature.com/articles/s42256-022-00531-2">Interpretable meta-score for model performance</a>
+<p>Alicja Gosiewska, Katarzyna Woźnica, Przemysław Biecek</p>
+<p><i>Nature Machine Intelligence (2022)</i></p>
+Elo-based predictive power (EPP) meta-score that is built on other performance measures and allows for interpretable comparisons of models. Differences between this score have a probabilistic interpretation and can be compared directly between data sets. Furthermore, this meta-score allows for an assessment of ranking fitness. We prove the properties of the Elo-based predictive power meta-score and support them with empirical results on a large-scale benchmark of 30 classification data sets. Additionally, we propose a unified benchmark ontology that provides a uniform description of benchmarks.
+</div>
+
+
+<div>
+<img src="images/mini_fairmodels.png">
+<a href="http://doi.org/10.32614/RJ-2022-019">fairmodels: a Flexible Tool for Bias Detection, Visualization, and Mitigation in Binary Classification Models</a>
+<p>Jakub Wiśniewski, Przemyslaw Biecek</p>
+<p><i>The R Journal (2022)</i></p>
+This article introduces an R package fairmodels that helps to validate fairness and eliminate bias in binary classification models quickly and flexibly. It offers a model-agnostic approach to bias detection, visualization, and mitigation. The implemented functions and fairness metrics enable model fairness validation from different perspectives. In addition, the package includes a series of methods for bias mitigation that aim to diminish the discrimination in the model. The package is designed to examine a single model and facilitate comparisons between multiple models.
+</div>
+
+
+<div>
+<img src="images/xai-alzheimer.png">
+<a href="https://doi.org/10.1186/s40708-022-00165-5">A robust framework to investigate the reliability and stability of explainable artificial intelligence markers of Mild Cognitive Impairment and Alzheimer’s Disease</a>
+<p>Angela Lombardi, Domenico Diacono, Nicola Amoroso, Przemysław Biecek, Alfonso Monaco, Loredana Bellantuono, Ester Pantaleo, Giancarlo Logroscino, Roberto De Blasi, Sabina Tangaro, Roberto Bellotti </p>
+<p><i>Brain Informatics (2022)</i></p>
+In this work, we present a robust framework to (i) perform a threefold classification between healthy control subjects, individuals with cognitive impairment, and subjects with dementia using different cognitive indexes and (ii) analyze the variability of the explainability SHAP values associated with the decisions taken by the predictive models. We demonstrate that the SHAP values can accurately characterize how each index affects a patient’s cognitive status. Furthermore, we show that a longitudinal analysis of SHAP values can provide effective information on Alzheimer’s disease progression.
+</div>
+
+
+<div>
 <img src="images/limecraft.png">
 <a href="https://link.springer.com/article/10.1007/s10994-022-06204-w">LIMEcraft: handcrafted superpixel selection and inspection for Visual eXplanations</a>
 <p>Weronika Hryniewska, Adrianna Grudzień, Przemysław Biecek</p>
@@ -123,15 +159,6 @@ This study shows the first confirmed case of SARS-CoV-2 in Poland with the linea
 <p>Hubert Baniecki, Przemyslaw Biecek</p>
 <p><i>AAAI Conference on Artificial Intelligence (2021)</i></p>
 During the literature review of COVID-19 related prognosis and diagnosis, we found out that most of the predictive models are not faithful to the RAI principles, which can lead to biassed results and wrong reasoning. To solve this problem, we show how novel XAI techniques boost transparency, reproducibility and quality of models.
-</div>
-
-
-<div>
-<img src="images/mini_fairmodels.png">
-<a href="https://arxiv.org/abs/2104.00507">fairmodels: A Flexible Tool For Bias Detection, Visualization, And Mitigation</a>
-<p>Jakub Wiśniewski, Przemyslaw Biecek</p>
-<p><i>arXiv preprint (2021)</i></p>
-This article introduces an R package fairmodels that helps to validate fairness and eliminate bias in classification models in an easy and flexible fashion. The fairmodels package offers a model-agnostic approach to bias detection, visualization and mitigation. The implemented set of functions and fairness metrics enables model fairness validation from different perspectives. The package includes a series of methods for bias mitigation that aim to diminish the discrimination in the model. 
 </div>
 
 
@@ -272,6 +299,25 @@ List of topics and materials from past seminars: https://github.com/MI2DataLab/M
 </script>
 
 
+
+### ARES 2022-2026 {-}
+
+#### ARES: Attack-resistant Explanations toward Secure and trustworthy AI {-}
+
+![images/mi2-ares.png](images/mi2-ares.png)
+
+Machine learning explainability, fairness, robustness, and security are key elements of trustworthy Artificial
+Intelligence, an area of strategic importance. In this context, the main goals of the ARES project are:
+
+1. Develop adversarial attacks on state-of-the-art explanations to investigate vulnerabilities and
+limitations of the existing explainability and fairness approaches in machine learning.
+2. Introduce novel robust explanations that are stable against manipulation and intuitive to evaluate.
+
+Achieving the first goal primarily impacts various domains of research, which currently use (and explain) black-box models for knowledge discovery and decision-making, by highlighting vulnerabilities and limitations of their explanations. Achieving the second goal impacts more the broad machine learning domain as it aims at improving state-of-the-art by introducing robust explanations toward secure and trustworthy AI.
+
+**Work on this project is financially supported by the NCN Preludium Bis grant 2021/43/O/ST6/00347.**
+
+
 ### DARLING 2022-2024   {-}
 
 #### DARLING: Deep Analysis of Regulations with Language Inference, Network analysis and institutional Grammar  {-}
@@ -369,7 +415,7 @@ More information: https://github.com/MI2DataLab/DeCoviD.
 
 **Expected impact on the development of science.** Explanations of black boxes have fundamental implications for the field of predictive and statistical modelling. The advent of big data forces imposes usage of black boxes that are easily able to overperform classical methods. But the high performance itself does not imply that the model is appropriate. Thus, especially in applications to personalized medicine or some regulated fields, one should scrutinize decision rules incorporated in the model. New methods and tools for exploration of black-box models are useful for quick identification of problems with the model structure and increase the interpretability of a black-box
 
-**Work on this project is financially supported by the NCN Opus grant 2017/27/B/ST6/0130.**
+**Work on this project is financially supported by the NCN Opus grant 2017/27/B/ST6/01307.**
 
 
 
