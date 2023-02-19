@@ -1,4 +1,4 @@
-# MI² Education {-}
+# MI²Education {-}
 
 The demand for predictive modelling skills is growing at a furious rate. Part of our mission is to develop human capital so that predictive modelling is applied responsibly and safely.
 
@@ -6,88 +6,298 @@ We take social responsibility seriously and as part of our activities we support
 
 
 ## Teaching {-}
+<script>
+  document.body.classList.add("teaching-page")
+  document.querySelector(".page-inner section > *:first-child").classList.add("teaching-layout")
+</script>
 
-### Classes at MiNI {-}
 
-#### Summer 2020/2021 {-}
+### Programming R 22/23 Summer {-}
 
-- [Introduction to exploratory data analysis](https://github.com/mini-pw/2021L-ExploratoryDataAnalysis) for Mathematics and data analysis studies
-  - lectures, laboratory, project - Anna Kozak
-  - laboratory - *Krzysztof Spaliński* 
-  
-- [Case Studies](https://github.com/mini-pw/2021L-WarsztatyBadawcze) for Data Science studies
-  - lectures - Katarzyna Woźnica
-  - [XAI1](https://github.com/mini-pw/2021L-WB-XAI-1) - laboratory, project - Anna Kozak
-  - [XAI2](https://github.com/mini-pw/2021L-WB-XAI-2) - laboratory, project - Szymon Maksymiuk
-  - [DL1](https://github.com/mini-pw/2021L-WB-DL-1) - laboratory, project - Weronika Hryniewska
-  - [DL2](https://github.com/mini-pw/2021L-WB-DL-2) - laboratory, project - Paulina Tomaszewska
-  - [ML](https://github.com/mini-pw/2021L-WB-ML) - laboratory, project - Hubert Baniecki 
-  - [RashomonML](https://github.com/mini-pw/2021L-WB-RashomonML) - laboratory, project - Katarzyna Woźnica
+[Programming and data analysis advanced in R ](https://github.com/MI2-Education/2023L-AdvancedR)
 
-#### Winter 2020/2021 {-}
+- lectures, labs, projects - Anna Kozak
 
-- [Data Visualization Techniques](https://github.com/mini-pw/2021Z-DataVisualizationTechniques) for Data Science studies
-  - lectures, laboratory - Alicja Gosiewska
-  - project - Hubert Baniecki 
+### Exploratory Data Analysis 22/23 Summer {-}
 
-#### Summer 2019/2020 {-}
+[Introduction to exploratory data analysis](https://github.com/MI2-Education/2023L-ExploratoryDataAnalysis) for Mathematics and data analysis studies
 
-- [Case Studies](https://github.com/mini-pw/2020L-WarsztatyBadawcze) for Data Science studies
-  - lectures - Alicja Gosiewska
-  - [Imputation](https://github.com/mini-pw/2020L-WarsztatyBadawcze-Imputacja) - laboratory, project - Katarzyna Woźnica
-  - [Reproducibility of scientific papers](https://github.com/mini-pw/2020L-WarsztatyBadawcze-Reprodukowalnosc) - laboratory, project - Alicja Gosiewska
-  - [Interpretability](https://github.com/mini-pw/2020L-WarsztatyBadawcze-InzynieriaCech) - laboratory, project - Katarzyna Kobylińska
+- lectures, labs, projects - Anna Kozak
+- labs - Hubert Ruczyński, Bartłomiej Sobieski
 
-- [Interpretable Machine Learning](https://github.com/pbiecek/InterpretableMachineLearning2020) for Data Science studies
-  - lectures, project - Przemysław Biecek  
-  
-- [Data Visualization](https://github.com/mini-pw/2020L-WizualizacjaDanych) for Data Science studies
-  - lectures, project - Michał Burdukiewicz
+### Data Visualization 22/23 Winter {-}
 
-#### Winter 2019/2020 {-}
+[Data Visualization Techniques](https://github.com/MI2-Education/2023Z-DataVisualizationTechniques) for Data Science studies
 
-- [Data Visualization Techniques](https://github.com/mini-pw/2020Z-TechnikiWizualizacjiDanych) for Data Science studies
-  - lectures, laboratory, project - Michał Burdukiewicz
-  
-- [Advanced Programming in R](https://github.com/mini-pw/2020Z-ProgramowanieWR)
-  - lectures, laboratory, project - Michał Burdukiewicz
-  
-#### Summer 2018/2019 {-}
+- lectures, labs, projects - Anna Kozak
+- labs, projects - Mateusz Krzyziński, Hubert Ruczyński, Mikołaj Spytek
 
-- [Case Studies](https://github.com/mini-pw/2019L-WarsztatyBadawcze) for Data Science studies
-  - lectures, laboratory, project - Alicja Gosiewska
+### Exploratory Data Analysis 21/22 Summer {-}
 
-- [Data Visualization](https://github.com/mini-pw/WizualizacjaDanych2018)
-  - lectures, project - Michał Burdukiewicz
-  
-- [Interpretable Machine Learning](https://github.com/pbiecek/InterpretableMachineLearning2018S)
-  - lectures, project - Przemysław Biecek
-  
-- Advanced R
-  - lectures, laboratory, project - Przemysław Biecek
+[Introduction to exploratory data analysis](https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis) for Mathematics and data analysis studies
 
-- [Data Visualization Techniques](https://github.com/pbiecek/TechnikiWizualizacjiDanych2018)  for Data Science studies
-  - lectures, project - Przemysław Biecek
-  - laboratory, project - Michał Burdukiewicz
-  
-### Classes at MIM{-}
+- lectures, labs, projects - Anna Kozak
+- labs - Katatzyna Woźnica 
 
-#### Summer 2020/2021 {-}
+### Interpretable Machine Learning 21/22 Summer {-}
 
-- [Interpretable Machine Learning](https://github.com/pbiecek/InterpretableMachineLearning2021)
-  - lectures, project - Przemysław Biecek
-  
-#### Summer 2019/2020 {-}
+[Interpretable Machine Learning](https://github.com/MI2-Education/InterpretableMachineLearning2022) 
 
-- [Interpretable Machine Learning](https://github.com/pbiecek/InterpretableMachineLearning2020)
-  - lectures, project - Przemysław Biecek  
-  
-#### Summer 2018/2019 {-}
+- lectures, projects - Przemysław Biecek
 
-- [Interpretable Machine Learning](https://github.com/pbiecek/InterpretableMachineLearning2018S)
-  - lectures, project - Przemysław Biecek
+### Case Studies 21/22 Summer {-}
 
-## Beta Bit {-} 
+[Case Studies]() for Data Science studies
 
-TODO - books, projects + StatTuba
+- lectures - Weronika Hryniewska
+- [ML-1](https://github.com/MI2-Education/2022L-WB-ML-1) - labs, projects - Anna Kozak
+- [ML-2](https://github.com/MI2-Education/2022L-WB-ML-2) - labs, projects - *Bartłomiej Eljasiak*
+- [XAI-tabular](https://github.com/MI2-Education/2022L-WB-XAI-tabular) - labs, projects - Mustafa Cavus 
+- [AutoML](https://github.com/MI2-Education/2022L-WB-AutoML) - labs, projects - Katarzyna Woźnica
+- [XIC](https://github.com/MI2-Education/2022L-WB-XIC) - labs, projects - Hubert Baniecki
+- [TL](https://github.com/MI2-Education/2022L-WB-TL) - labs, projects - Paulina Tomaszewska
+- [Data](https://github.com/MI2-Education/2022L-WB-data) - labs, projects - Weronika Hryniewska
+- [NLP](https://github.com/MI2-Education/2022L-WB-NLP) - labs, projects - Stanisław Giziński
 
+### Data Visualization 21/22 Winter {-}
+
+[Data Visualization Techniques](https://github.com/mini-pw/2022Z-DataVisualizationTechniques) for Data Science studies
+
+- lectures, labs, projects - Anna Kozak
+- labs, projects - Hubert Baniecki
+
+### Exploratory Data Analysis 20/21 Summer {-}
+
+[Introduction to exploratory data analysis](https://github.com/mini-pw/2021L-ExploratoryDataAnalysis) for Mathematics and data analysis studies
+
+- lectures, labs, projects - Anna Kozak
+- labs - *Krzysztof Spaliński*
+
+### Case Studies 20/21 Summer {-}
+
+[Case Studies](https://github.com/mini-pw/2021L-WarsztatyBadawcze) for Data Science studies
+
+- lectures - Katarzyna Woźnica
+- [XAI1](https://github.com/mini-pw/2021L-WB-XAI-1) - labs, projects - Anna Kozak
+- [XAI2](https://github.com/mini-pw/2021L-WB-XAI-2) - labs, projects - Szymon Maksymiuk
+- [DL1](https://github.com/mini-pw/2021L-WB-DL-1) - labs, projects - Weronika Hryniewska
+- [DL2](https://github.com/mini-pw/2021L-WB-DL-2) - labs, projects - Paulina Tomaszewska
+- [ML](https://github.com/mini-pw/2021L-WB-ML) - labs, projects - Hubert Baniecki
+- [RashomonML](https://github.com/mini-pw/2021L-WB-RashomonML) - labs, projects - Katarzyna Woźnica
+
+### Interpretable Machine Learning 20/21 Summer {-}
+
+[Interpretable Machine Learning](https://github.com/pbiecek/InterpretableMachineLearning2021) for Data Science studies
+
+[XAI stories 2](https://pbiecek.github.io/xai_stories_2/)
+
+- lectures, projects - Przemysław Biecek
+
+### Data Visualization 20/21 Winter {-}
+
+[Data Visualization Techniques](https://github.com/mini-pw/2021Z-DataVisualizationTechniques) for Data Science studies
+
+- lectures, labs - Alicja Gosiewska
+- projects - Hubert Baniecki
+
+### Case Studies 19/20 Summer {-}
+
+[Case Studies](https://github.com/mini-pw/2020L-WarsztatyBadawcze) for Data Science studies
+
+- lectures - Alicja Gosiewska
+- [Imputation](https://github.com/mini-pw/2020L-WarsztatyBadawcze-Imputacja) - labs, projects - Katarzyna Woźnica
+- [Reproducibility of scientific papers](https://github.com/mini-pw/2020L-WarsztatyBadawcze-Reprodukowalnosc) - labs, projects - Alicja Gosiewska
+- [Interpretability](https://github.com/mini-pw/2020L-WarsztatyBadawcze-InzynieriaCech) - labs, projects - Katarzyna Kobylińska
+
+### Interpretable Machine Learning 19/20 Summer {-}
+
+[Interpretable Machine Learning](https://github.com/pbiecek/InterpretableMachineLearning2020) for Data Science studies
+
+- lectures, projects - Przemysław Biecek
+
+### Data Visualization 19/20 Summer {-}
+
+[Data Visualization](https://github.com/mini-pw/2020L-WizualizacjaDanych) for Data Science studies
+
+- lectures, labs, projects - Michał Burdukiewicz
+
+
+
+## Beta Bit {-}
+
+<script>
+document.body.classList.add("two-columns")
+document.querySelector(".page-inner section > *:first-child").classList.add("two-columns-layout")
+</script>
+
+<div>
+<img src="images/bb_chaos.png" align="left">
+<a href="https://github.com/BetaAndBit/ChaosGame">Chaos Game</a>
+<p>EN: Are you curious about fractals? The Chaos Game is the book for you. You will learn the mathematical basis behind these figures, find out what algorithm can be used to code them, write code in your favourite programming language (Python, R, Julia?) and also explore the bibliographies of three mathematicians associated with the development of mathematics around these shapes. This is the next book in the Beta Bit series for anyone interested in computational mathematics and data analysis.</p>
+<p>PL: Jesteś ciekawy czym są fraktale? Gra w Chaos to książka dla Ciebie. Poznasz matematyczne podstawy tych figur, dowiesz się, jaki algorytm można wykorzystać do ich zaprogramowania, napiszesz kod w swoim ulubionym języku programowania (Python, R, Julia?), a także poznasz bibliografie trzech matematyków związanych z rozwojem matematyki wokół tych kształtów. To kolejna książka z serii Beta Bit dla wszystkich zainteresowanych matematyką obliczeniową i analizą danych.</p>
+<p><a href="https://chaosgame.drwhy.ai/">Flipbook online [ENG]</a></p>
+<p><a href="https://chaos.drwhy.ai/">Flipbook online [POL]</a></p>
+</div>
+
+<div>
+<img src="images/bb_wykresy.png" align="left">
+<a href="https://github.com/BetaAndBit/Wykresy">Wykresy od kuchni</a>
+<p>PL: Jak tworzyć dobre wykresy? Dobre, czyli takie, które z przyjemnością się ogląda, z których można wyciągnąć wiele informacji, które są zrozumiałe dla szerokiego odbiorcy, a jednocześnie docenią je smakosze. Na bazie doświadczeń z prowadzenia tych zajęć powstały Wykresy od kuchni. To zbiór krótkich wykładów omawiających różne wątki przydatne w lepszym zrozumieniu tego, jak działa komunikacja z użyciem wykresów statystycznych. Na kolejnych stronach pojawi się wiele analogii do przyrządzania posiłków, ponieważ zarówno w kuchni, jak i w przygotowaniu wykresów statystycznych potrzebna jest praktyka, znajomość pewnych fundamentalnych prawideł, garść sprawdzonych przepisów i dużo zapału do eksperymentowania. Będąc tak uzbrojonym, każdy adept sztuki kulinarnej jest skazany na sukces.</p>
+<p><a href="https://betaandbit.github.io/Wykresy/">Flipbook online [POL]</a></p>
+</div>
+
+<div>
+<img src="images/bb_rml.png" align="left">
+<a href="https://betaandbit.github.io/RML/">The Hitchhiker's Guide to Responsible Machine Learning</a>
+<p>EN: A one-of-a-kind 52-page story about responsible machine learning. Beta and Bit use decision trees, random forests, and AutoML tools to build a risk model after a covid infection, and then use explainable artificial intelligence tools to analyze the behavior of that model. The description of the data analysis process is intertwined with descriptions of ML tools and code snippets. All examples are fully reproducible!</p>
+<p>PL: Jedyna w swoim rodzaju 52-stronicowa opowieść o odpowiedzialnym uczeniu maszynowym. Beta i Bit używają drzew decyzyjnych, lasów losowych i narzędzi AutoML do budowy modelu ryzyka po zakażeniu covid, a następnie używają narzędzi wyjaśnialnej sztucznej inteligencji by przeanalizować działanie tego modelu. Opis procesu analizy danych przeplata się na opisem kolejnych narzędzi i przykładami kodu. Wszystkie wyniki są całkowicie odtwarzalne!</p>
+<p><a href="https://betaandbit.github.io/RML/">Flipbook online</a></p>
+<p>Przemysław Biecek, Anna Kozak, Aleksander Zawada</p>
+<p>Fundacja Naukowa SmarterPoland.pl. <i>2022</i></p>
+</div>
+
+<div>
+<img src="images/bookSzeregi.png" align="left">
+<a href="https://github.com/BetaAndBit/Szeregi">W pogoni za nieskończonością. Szeregi</a>
+<p>EN: What does hiking in the mountains have to do with the convergence of series? Quite a lot! We start with the paradoxes related to infinity, but step by step we learn the techniques of geometric series. In this book, the conditions for convergence are explained, together with numerous examples. The comic ends with a collection of exercises with different levels of difficulty.</p>
+<p>PL: Co wspólnego ma chodzenie po górach ze zbieżnością szeregów? Otóż całkiem sporo! Zaczynamy od paradoksów związanych z nieskończonością, ale krok po kroku poznajemy techniki szeregów geometrycznych. W tej pozycji wyjaśnione są warunki zbieżności wraz z licznymi przykładami. Komiks kończy zbiór zadań o różnych poziomach trudności.</p>
+<p><a href="https://betaandbit.github.io/Szeregi/">Flipbook online</a></p>
+<p>Przemysław Biecek, Łukasz Maciejewski, Aleksander Zawada</p>
+<p>Fundacja Naukowa SmarterPoland.pl. <i>2022</i></p>
+</div>
+
+<div>
+<img src="images/bookR.png" align="left">
+<a href="http://biecek.pl/R/">Przewodnik po pakiecie R</a>
+<p>EN: The Guide to the R package was the first published Polish book focused on the R language. The current fourth edition consists of four parts: Basics of using R (+tidyverse, shiny, knitr and other goodies), Programming in R (object-oriented, package development, class system), Statistics with R (statistical tests, models, exploration techniques) and Visualization with R (graphics, lattice and ggplot2 packages).</p>
+<p>PL: Przewodnik po pakiecie R był pierwszą wydaną polskojęzyczną książką poświęconą językowi R. Aktualne czwarte wydanie składa się z czterech części: Podstaw posługiwania się językiem R (+tidyverse, shiny, knitr i inne smaczki), Programowanie w R (obiektowe, tworzenie pakietów, system klas), Statystyka z R (testy statystyczne, modele, techniki eksploracji) i Wizualizacja z R (pakiety graphics, lattice i ggplot2).</p>
+<p><a href="http://biecek.pl/R">Wersja online</a>, <a href="http://www.wydawnictwopw.pl/index.php?s=karta&id=3217">Książka w księgarnii</a>.</p>
+<p>Przemysław Biecek</p>
+<p>Wydawnictwo GiS. <i>2008-2021</i></p>
+</div>
+
+<div>
+<img src="images/bookAnaliza.png" align="left">
+<a href="http://ksiegarnia.pwn.pl/produkt/104378/analiza-danych-z-programem-r.html">Analiza danych z programem R</a>
+<p>EN: An academic textbook describing estimation and testing topics for linear models with fixed effects, random effects and mixed effects. The theoretical introduction is complemented by numerous examples for one-way and multivariate ANOVA, one and multiple random components. The examples focus on biological and medical applications and are based on real analyses of real data.</p>
+<p>PL: Podręcznik akademicki opisujący zagadnienia estymacji i testowania dla modeli liniowych z efektami stałymi, losowymi i mieszanymi. Wprowadzenie teoretyczne jest uzupełnione o liczne przykłady dla jednokierunkowej i wielokierunkowej ANOVA, jednym i wieloma komponentami losowymi. Przykłady dotyczą głównie zastosowań biologicznych i medycznych i bazują na prawdziwych analizach rzeczywistych danych.</p>
+<p><a href="http://ksiegarnia.pwn.pl/produkt/104378/analiza-danych-z-programem-r.html">Książka w księgarnii</a>.</p>
+<p>Przemysław Biecek</p>
+<p>Wydawnictwo Naukowe PWN <i>2013-2018</i></p>
+</div>
+
+<div>
+<img src="images/bookEseje2.png" align="left">
+<a href="http://biecek.pl/Eseje/">Eseje o sztuce wizualizacji danych</a>
+<p>EN: Discover! Reveal! Explain! These three roles can be fulfilled by good statistical graphics. Good means understandable, faithful to the data, aesthetic. How to create such graphics? A collection of essays on the art of displaying data systematises knowledge useful in designing and producing good data visualisations. It is not easy. On the one hand, we can fall into the trap of a colourful mush full of numbers, which is sometimes proudly called infographics. On the other hand, we can fall into the trap of graphics that perfectly reproduce the complexity of numbers, and thus completely incomprehensible. Somewhere in the middle is a graphic that explains, that informs, that is aesthetically pleasing and informative.</p>
+<p>PL: Odkrywać! Ujawniać! Objaśniać! Te trzy role może spełniać dobra grafika statystyczna. Dobra czyli zrozumiała, wierna danym, estetyczna. Jak tworzyć taką grafikę? Zbiór esejów o sztuce pokazywania danych systematyzuje wiedzę przydatną do projektowania i wykonania dobrej wizualizacji danych. Nie jest to proste. Z jednej strony możemy wpaść w pułapkę pstrokatej papki najeżonej liczbami, którą czasem dumnie nazywa się infografiką. Z drugiej strony wpaść można w pułapkę grafiki idealnie odwzorowującej złożoność liczb a przez to zupełnie niezrozumiałej. Gdzieś po środku jest grafika, która wyjaśnia, która informuje, która jest estetyczna i informatywna.</p>
+<p><a href="http://biecek.pl/Eseje/">Książka online</a>, <a href="http://biecek.pl/Eseje/">Książka w księgarnii</a>.</p>
+<p>Przemysław Biecek</p>
+<p>Wydawnictwo SmarterPoland <i>2008-2021</i></p>
+</div>
+
+<div>
+<img src="images/bookPogromcy.png" align="left">
+<a href="http://www.pogromcydanych.icm.edu.pl/">Pogromcy Danych</a>
+<p>EN: Data Crunchers is the first MOOC (Massive Open Online Course) developed in Polish for data scientists. Two modules were developed in 2015: the first one is an introduction to R, with loading data, overview of syntax, basic data types, descriptive statistics and pipelined processing. The second module is dedicated to data visualisation and statistical modelling. More than 8,000 people have registered on the Data Crunchers platform.</p>
+<p>PL: Pogromcy Danych to pierwszy MOOC (Massive Open Online Course) opracowany w języku polskim do analizy danych. W roku 2015 powstały dwa moduły: pierwszy jest wprowadzeniem do programu R, przez wczytywanie danych, omówienie składni, podstawowych typów danych, statystyk opisowych oraz przetwarzania potokowego. Drugi moduł poświęcony jest wizualizacji danych oraz modelowaniu statystycznemu. W platformie Pogromców Danych zarejestrowało się ponad 8000 osób.</p>
+<p><a href="http://tofesi.mimuw.edu.pl/~cogito/PogromcyDanych/Pogromcy%20Danych%20Przetwarzanie%20danych%20w%20programie%20R%20-%20Przemyslaw%20Biecek%20Uniwersytet%20Warszawski.epub">Przetwarzanie danych w programie R</a>, <a href="http://tofesi.mimuw.edu.pl/~cogito/PogromcyDanych/Pogromcy%20Danych%20Wizualizacja%20i%20modelowanie%20-%20Przemyslaw%20Biecek%20Uniwersytet%20Warszawski.epub">Wizualizacja i modelowanie</a>, <a href="http://www.pogromcydanych.icm.edu.pl/">Strona WWW</a>.</p>
+<p>Przemysław Biecek</p>
+<p>ICM UW. <i>2015</i></p>
+</div>
+
+<div>
+<img src="images/bookWykresy.png" align="left">
+<a href="https://www.wuw.pl/product-pol-8576-Wykresy-unplugged.html">Wykresy unplugged</a>
+<p>EN: Can you create clear charts without any electricity? An illustrated collection of exercises showing eight of the most popular ways to visualise data, with do-it-yourself challenges. Grab your crayons and start creating fantastic charts.</p>
+<p>PL: Czy można tworzyć czytelne wykresy bez użycia prądu? Ilustrowany zbiór ćwiczeń przedstawiających osiem najpopularniejszych sposobów wizualizacji danych, wraz z zadaniami do samodzielnego wykonania. Weź kredki i zacznij tworzyć fantastyczne wykresy.</p>
+<p><a href="https://betaandbit.github.io/WykresyUnplugged/">Flipbook online</a>, <a href="https://ksiegarnia.pwn.pl/Wykresy-unplugged,771536924,p.html">Komiks w księgarnii</a>.</p>
+<p>Przemysław Biecek, Ewa Baranowska, Piotr Sobczyk</p>
+<p>Fundacja Naukowa SmarterPoland.pl. <i>2018</i></p>
+</div>
+
+<div>
+<img src="images/bookNieskonczonosc.png" align="left">
+<a href="https://www.wuw.pl/product-pol-8579-W-pogoni-za-nieskonczonoscia.html">W pogoni za nieskończonością</a>
+<p>EN: Two mathematicians share stories about infinity. In the first Beta attends a lecture on the properties of prime numbers. In the second, Bit breaks into the Palace of Culture and Science. How should we talk about mathematics?</p>
+<p>PL: Dwójka matematyków wymienia się opowiadaniami o nieskończoności. W pierwszym Beta bierze udział w wykładzie o właściwościach liczb pierwszych. W drugim Bit włamuje się do Pałacu Kultury i Nauki. Jak opowiadać o matematyce?</p>
+<p><a href="https://betaandbit.github.io/Nieskonczonosc/">Flipbook online</a>, <a href="https://www.wuw.pl/product-pol-8579-W-pogoni-za-nieskonczonoscia.html">Komiks w księgarnii</a>.</p>
+<p>Przemysław Biecek, Łukasz Maciejewski, Tomasz Samojlik, Sebastian Szpakowski</p>
+<p>Fundacja Naukowa SmarterPoland.pl. <i>2018</i></p>
+</div>
+
+<div>
+<img src="images/bookMufinki.png" align="left">
+<a href="https://www.empik.com/jak-dlugo-zyja-muffinki-biecek-przemyslaw,p1135934167,ksiazka-p">Jak długo żyją Muffinki?</a>
+<p>EN: A collection of three stories for children showing statistical relationships in the world around us. Beautifully illustrated stories about the distribution of height according to age, the life span of dogs or measuring the weight of trees.</p>
+<p>PL: Zbiór trzech opowiadań dla dzieci pokazującym zależności statystyczne w świecie wokół nas. Pięknie ilustrowane opowiadania o rozkładzie wzrostu w zależności od wieku, czasie życia psów czy pomiarze wagi drzew.</p>
+<p>Online: <a href="http://betabit.wiki/story/muffinkiRozdzial1.pdf">Jak szybko urosnę</a>, <a href="http://betabit.wiki/story/muffinkiRozdzial2.pdf">Jak długo żyją Muffinki</a>.</p>
+<p>Przemysław Biecek</p>
+<p>Fundacja Naukowa SmarterPoland.pl.<i>2016</i></p>
+</div>
+
+<div>
+<img src="images/bookPieczara.png" align="left">
+<a href="https://www.empik.com/pieczara-pietraszki-chudzian-magdalena-biecek-przemyslaw,p1119203030,ksiazka-p">Pieczara Pietraszki</a>
+<p>EN: How linear regression can help in getting home, and why it's not worth hacking into a mad mathematician's office. A short story describing the adventures of two teenagers Beta and Bit moving around historic Warsaw.</p>
+<p>PL: W jaki sposób regresja liniowa może pomóc w powrocie do domu, oraz dlaczego nie warto włamywać się do pokoju szalonego matematyka? Lekkie opowiadanie opisujące przygody dwójki nastolatków Bety i Bita w historycznej Warszawie.</p>
+<p>Online: <a href="http://biecek.pl/BetaBit/Warszawa/">W jezyku Polskim</a>, <a href="http://biecek.pl/BetaBit/Warsaw/">In English</a>, <a href="http://biecek.pl/BetaBit/Barsaba/">По-Русски</a>.</p>
+<p>Magda Chudzian, Przemysław Biecek</p>
+<p>Fundacja Naukowa SmarterPoland.pl. <i>2015</i></p>
+</div>
+
+
+<div>
+<img src="images/bookAdventures.png" align="left">
+<a href="https://github.com/BetaAndBit/ComicBooks">How to weight a dog with a ruler?</a>
+<p>EN: Workshop materials for children aged 8-10. Kids measure different parameters of their body, such as arm span or height. Then they create a graph summarizing the collected data and look for relations between the measured features. It just so happens that parts of the human body are proportional to each other and you can use a ruler to find this relationship. Part of the StatTub project.</p>
+<p>PL: Materiały do warsztaty dla dzieci w wieku 8-10. Dzieci mierzą różne parametry swojego ciała, takie jak rozpiętość ramion lub wzrost. Następnie tworzą wykres podsumowujący zebrane dane i szukają zależności pomiędzy zmierzonymi cechami. Tak się składa, że części ciała ludzkiego są do siebie proporcjonalne i można z użyciem linijki znaleźć tę relację. Część projektu StatTuba.</p>
+<p>Online: 
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/en/HeavyDog_en.pdf">English</a>, 
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/pl/JakZwazycPsa/JakZwazycPsa.pdf">Polish</a>, 
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/cn/HeavyDog_cn.pdf">Chinese</a>, 
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/cn/HeavyDog_cn_simplified.pdf">Simplified Chinese</a>, 
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/cz/HeavyDog_cz.pdf">Czech</a>, 
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/de/HeavyDog_de.pdf">German</a>, 
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/es/HeavyDog_es.pdf">Spanish</a>, 
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/es_la/HeavyDog_es_la.pdf">Spanish (Latin America)</a>, 
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/fr/HeavyDog_fr.pdf">French</a>, 
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/nl/HeavyDog_nl.pdf">Dutch</a>,
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/vn/heavy_dog_vn.pdf">Vietnamese</a>.</p>
+<p>Przemysław Biecek, Klaudia Korniluk</p>
+<p>Fundacja Naukowa SmarterPoland.pl.<i>2016-2021</i></p>
+</div>
+
+
+
+## ResponsibleML Blog {-}
+
+<div class="two-column-entry">
+<div class="two-column-entry-image">
+<img src="images/rml.png">
+</div>
+<div class="two-column-entry-text">
+Read more about the research, solutions and education on our blog: [Tools for Explainable, Fair and Responsible ML](https://medium.com/responsibleml)
+</div>
+</div>
+
+<div class="two-column-entry-image">
+<img src="images/blog-basicXAI.png">
+<p><a href="https://medium.com/responsibleml/basic-xai-with-dalex-part-1-introduction-e68f65fa2889">BASIC XAI with DALEX— Part 1: Introduction</a></p>
+<p>Anna Kozak</p>
+In this post, we will take a closer look at some algorithms used in explainable artificial intelligence. You will find here an introduction to methods of global and local model evaluation. Each description will include a technical introduction, example analysis, and code in R and Python.
+</div>
+
+<div class="two-column-entry-image">
+<img src="images/blog-RpackagesXAI.png">
+<p><a href="https://medium.com/responsibleml/r-packages-for-explainable-artificial-intelligence-7b3536423d2b">R packages for eXplainable Artificial Intelligence</a></p>
+<p>Przemysław Biecek</p>
+We have prepared an overview of the most popular R-packages, which can be used to build interpretable models or to explore complex ones. Examples of knitr notebooks for more than 30 packages are available at http://xai-tools.drwhy.ai/.
+</div>
+
+<div class="two-column-entry-image">
+<img src="images/blog-adversarialattacks.png">
+<p><a href="https://medium.com/responsibleml/adversarial-attacks-on-explainable-ai-f65d41e83c5f">Adversarial attacks on Explainable AI</a></p>
+<p>Hubert Baniecki</p>
+There are various adversarial attacks on machine learning models; hence, ways of defending, e.g. by using Explainable AI methods. Nowadays, attacks on model explanations come to light, so does the defense to such adversary. Here, we introduce fundamental concepts related to the domain. A further reference list is available at https://github.com/hbaniecki/adversarial-explainable-ai.
+</div>

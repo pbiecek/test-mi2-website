@@ -1,1 +1,3 @@
-# test-mi2-website
+# MI² website
+
+https://mi2.ai
