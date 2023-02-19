@@ -81,7 +81,7 @@ document.body.classList.add("two-columns")
 * [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), MSc student
 * [Stanisław Łaniewski](the-team.html#stanisław-łaniewski), PhD student
 * [Piotr Piątyszek](the-team.html#piotr-piątyszek), BSc student
-* [Hubert Ruczyński](the-team.html#hubert-ruczyński), BSc student
+* [Hubert Ruczyński](the-team.html#hubert-ruczyński), MSc student
 * [Barbara Rychalska](the-team.html#barbara-rychalska), PhD student
 * [Nuno Sepúlveda](https://www.immune-stats.net), PhD
 * [Bartek Sobieski](the-team.html#bartek-sobieski), MSc student
