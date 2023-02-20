@@ -224,11 +224,11 @@ LinkedIn: [stanislaw-gizinski](https://www.linkedin.com/in/stanislaw-gizinski/)
 
 ### Mateusz Grzyb {-}
 
-<img src="images/mateusz_grzyb.jpg" >
+<img src="images/mgrzyb.png">
 
-A BSc Data Science student at Warsaw University of Technology. Interested in artificial intelligence, data visualization and metaheuristic optimization.
+MSc student in Data Science at Warsaw University of Technology. Interested in artificial intelligence and scientific computing, but above all simply enjoys programming.
 
-GitHub: [PlentyCoups](https://github.com/PlentyCoups)
+GitHub: [mgrzyb99](https://github.com/mgrzyb99)
 
 
 ### Weronika Hryniewska{-}
