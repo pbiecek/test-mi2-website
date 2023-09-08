@@ -93,6 +93,7 @@ document.body.classList.add("two-columns")
 * [Emilia Wiśnios](the-team.html#emilia-wiśnios), MSc student
 * [Paweł Wojciechowski](the-team.html#paweł-wojciechowski), BSc
 * [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
+* [Vladimir Zaigrajew](the-team.html#vladimir-zaigrajew), PhD student
 * [Artur Żółkowski](the-team.html#artur-żółkowski), BSc student
 
 
@@ -510,6 +511,17 @@ Google Scholar: [tAQS1gQAAAAJ](https://scholar.google.pl/citations?user=tAQS1gQA
 GitHub: [woznicak](https://github.com/woznicak)
 
 LinkedIn: [woznicak](https://www.linkedin.com/in/woznicak)
+
+
+### Vladimir Zaigrajew {-}
+
+<img src="images/vladimir_zaigrajew.jpg">
+
+PhD candidate in computer science at Warsaw University of Technology. Interested in deep learning, primarily on images, with a focus on representation learning.
+
+GitHub: [WolodjaZ](https://wolodjaz.github.io)
+
+LinkedIn: [vladimir-zaigrajew](https://www.linkedin.com/in/vladimirzaigrajew/)
 
 
 ### Artur Żółkowski {-}
