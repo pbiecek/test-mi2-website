@@ -458,8 +458,7 @@ LinkedIn: [hthienly](https://www.linkedin.com/in/hthienly/)
 
 <img src="images/pwilczynski.jpg">
 
-BSc student in Data Science at Warsaw University of Technology. Interested in ontologies, semantic similarity, hyperparameter optimization and NLP.
-
+BSc student in Data Science at Warsaw University of Technology. Interested in Large Language Models, AI Deception and Natural Language Processing. Currently working on my thesis, which applies Computer Vision to medicine.
 GitHub: [wi1lku](https://github.com/wi1lku)
 
 LinkedIn: [Piotr-Wilczyński](https://www.linkedin.com/in/piotr-wilczy%C5%84ski-5a529320b/)
