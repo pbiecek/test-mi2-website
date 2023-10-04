@@ -75,7 +75,7 @@ document.body.classList.add("two-columns")
 * [Maciej Chrabąszcz](the-team.html#maciej-chrabąszcz), MSc student
 * [Mateusz Grzyb](the-team.html#mateusz-grzyb), MSc student
 * [Stanisław Giziński](the-team.html#stanisław-giziński), MSc student
-* [Weronika Hryniewska](the-team.html#weronika-hryniewska), PhD student
+* [Weronika Hryniewska-Guzik](the-team.html#weronika-hryniewska-guzik), PhD student
 * [Piotr Komorowski](the-team.html#piotr-komorowski), MSc student
 * [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), MSc student
 * [Tymoteusz Kwieciński](the-team.html#tymoteusz-kwiecinski), BSc student
@@ -235,7 +235,7 @@ MSc student in Data Science at Warsaw University of Technology. Interested in ar
 GitHub: [mgrzyb99](https://github.com/mgrzyb99)
 
 
-### Weronika Hryniewska{-}
+### Weronika Hryniewska-Guzik{-}
 
 <img src="images/whryniewska.png" >
 
