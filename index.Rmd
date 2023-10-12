@@ -24,8 +24,8 @@ is.html = !is.null(output) && output == "html"
 document.body.classList.add("index-page")
 </script>
 
-MI².AI is a group of mathematicians and computer scientists that love to play with predictive models.
-We are spread between [Warsaw University of Technology](https://www.pw.edu.pl/engpw) and [University of Warsaw](https://en.uw.edu.pl). Here we have workshops, seminars, here we are forging new ideas, creating tools, solving problems, doing consulting and sharing our positive attitude. Feel free to jump in. 
+MI².AI is a group of mathematicians and computer scientists who love to play with predictive models.
+We are spread between [Warsaw University of Technology](https://www.pw.edu.pl/engpw) and [University of Warsaw](https://en.uw.edu.pl). Here we have workshops and seminars, here we are forging new ideas, creating tools, solving problems, doing consulting and sharing our positive attitude. Feel free to jump in. 
 
 #### Mission {-}
 
@@ -33,7 +33,7 @@ Machine learning is like atomic energy. **We develop leaders, skills, methods, t
 
 #### Vision {-}
 
-MI² is a group of experts supporting global initiatives aimed at responsible and sustainable machine learning. We support the development of future leaders of responsible machine learning through internships, PhDs, postdoctoral fellowships and so on. We seek for research grants and business projects to conduct both scientific and applied research. We develop and maintain software and infrastructure necessary to build responsible and sustainable ML. We develop cooperation with international teams working on similar topics. We support companies to implement best practices related to responsible modelling in their operation. We conduct workshops and training on responsible predictive modelling.
+MI² is a group of experts supporting global initiatives aimed at responsible and sustainable machine learning. We support the development of future leaders of responsible machine learning through internships, PhDs, postdoctoral fellowships and so on. We seek for research grants and business projects to conduct both scientific and applied research. We develop and maintain the software and infrastructure necessary to build responsible and sustainable ML. We develop cooperation with international teams working on similar topics. We support companies to implement best practices related to responsible modelling in their operation. We conduct workshops and training on responsible predictive modelling.
 
 
 ## The Team  {-}
@@ -642,84 +642,79 @@ LinkedIn: [tomasz-mikolajczyk-ds](https://www.linkedin.com/in/tomasz-mikolajczyk
 
 ## Open Positions {-}
 
-We have open call for [HOMER](https://www.mi2.ai/research-grants.html#homer-2020-2025) and [xLungs](https://www.mi2.ai/research-grants.html#x-lungs-2021-2024) projects for following positions. If you are interested in any of them please send your CV and Motivation Letter to przemyslaw.biecek at pw.edu.pl. We reserve the right to contact only selected candidates.
+<img src="images/positions_mi2.png" style="width: 100%;">
 
-### PhD positions in 2023 {-}
+We have an open call for [HOMER](https://www.mi2.ai/research-grants.html#homer-2020-2025) and [xLungs](https://www.mi2.ai/research-grants.html#x-lungs-2021-2024) projects for following positions. If you are interested in any of them please send your CV and Motivation Letter to przemyslaw.biecek at pw.edu.pl. We reserve the right to contact only selected candidates.
 
-<img src="images/redteaming_mi2.png" style="width: 100%;">
+### MI2 policy on benefits and obligations {-}
 
-**Call for PhD Student: Research Opportunity in Foundation Model Redteaming**
+We are seeking highly motivated and talented researchers at different career levels to join MI2.AI research team in the exciting field of explainability and red-teaming of AI models.
 
-We are seeking a highly motivated and talented PhD student to join MI2.AI research team in the exciting field of foundation model redteaming. As the advancements development of AI models (especially transformer based with attention mechanism), it becomes crucial to ensure the robustness and security of the foundation models that underlie these advancements.
+There is a common recruitment policy for all positions.
 
-**Project Description:**
+We are looking for
 
-The selected PhD student will work on investigating potential vulnerabilities and biases in foundation models, such as language models (one PhD position) and 2D/3D computer vision models (one PhD position). Redteaming involves conducting adversarial assessments to identify weaknesses, uncover potential attack vectors, and develop defensive strategies for foundation models/transformer models. The research will explore various aspects, including data poisoning attacks, adversarial samples generation, and the development of countermeasures.
+* people interested in research who want to create methods and tools that have a real impact (not yet another paper).
+* proactive people with initiative.
+* people with proficiency in programming languages commonly used in AI research, at least one out of Python, R or Julia.
+* solid understanding of AI/ML models, including their architecture and training processes.
+* good communication skills and proficiency in academic writing; excellent problem-solving skills.
 
-**Requirements:**
+We offer:
 
-Proficiency in programming languages commonly used in AI research, such as Python, R or Julia.
-Familiarity with deep learning frameworks and libraries, such as PyTorch.
-Solid understanding of foundation models, including their architecture and training processes.
-Excellent problem-solving skills and ability to work independently and as part of a team.
-Good communication skills and proficiency in academic writing.
-
-
-Interested candidates are requested to submit the following documents to **przemyslaw.biecek at pw.edu.pl**.
-
-
-We look forward to receiving your applications and welcoming an enthusiastic and dedicated PhD student to contribute to our foundation model redteaming research endeavors.
+- the opportunity to learn from experienced and motivated researchers at different career levels as well as the opportunity to work with a rich network of international and interdisciplinary collaborators (for example Harvard Medical University, Vienna University, LMU, NTU, KDD Lab, Bari University and many others).
+- a possibility for a tenure-track position after the completion of the postdoc. 
+- possibility to present research results at international conferences.
+- access to our supercomputers, among them Eden with 32x A100 cards and 1.5TB of storage, a perfect place for training large DNN models.
 
 
-Apply before **June 30 the end of the day** (**June 10 in case of interest in MIM UW**).
+**Salary**
+
+Salary depend on experience and type of project (applied projects tend to have higher salaries than typical research projects). 
+
+Average rates range from 50-60 PLN/hour (equivalent to 8-9.5k FTE) for a student with experience, through to 80-85 PLN/hour (equivalent to 12-13k FTE) for an experienced PhD student. The base salary for a post-doc (no obligatory teaching duties) is 120-140k gross per year (this is a base salary, extras depend on activity).
+
+### Low commitment projects (1/5 FTE) in 2023 {-}
+
+Ex 1: Any object can be embedded with an appropriately trained neural network. But can objects be embedded using tree-based models? This project (an ideal candidate for MSc thesis) is about exploring different embedding construction techniques based on random forest or boosting methods.
+
+Ex 2:  Analysis of champion-challenger model pairs on subsets of observations obtained using data segmentation. The project consists of an extension of the EPP method (Elo for predictive models) based on segmented data (e.g. by k-means or by random splits). In addition to the performance analysis, a PD profile comparison analysis is also performed on the splits.
+
+### Mid commitment projects (2-2.5/5 FTE) in 2023 {-}
+
+Ex 1: Development of techniques for explaining segmentation models for 1d (feature-producing models, e.g. survival models), 2d (image-producing models) or 3d data. (CT, hyperspectral images) Experience and knowledge of classical explanatory techniques (SHAP, LRP, CRP) are desirable.
+
+Ex 2:  Development of red-teaming techniques for LLaMA 2-type language models. Development of test suites testing the vulnerability of the model to a set of prompting-based attacks.
 
 
+### Full-time positions for post-docs in 2023 {-}
 
-### Deep Learning Engineer {-}
 
-**Required:**
+In addition to the research tasks listed above, responsibilities include mentoring junior staff (students, PhD students) and leading small research groups.
 
-* Background in Computer Science, Mathematics, Statistics or similar. 
-* Experience in Deep Learning for 2d/3d image data (*torch is a plus)
-* Interest in medical applications
+**Additional information about costs of living in Warsaw**
 
-**Scope of work:**
+[From FENS](https://fens.org.pl/en/job-offers/):
+Warsaw is the capital of Poland, so in principle it is one of the most expensive cities in the country but living in Warsaw is still much cheaper than in the majority of European cities. In general, a single person in Warsaw is able to cover all necessary expenses (flat, media, transport, food) with ca. 5000-5500 PLN per month. A typical cost of renting a 2-room flat (30-40 square meters) varies between 2000-3000 PLN, depending on the part of the city. Electricity and media (TV, Internet) are usually not included in the rent and have to be paid separately. The cost of the lunch in the vicinity of the main campus of WUT is ca. 25-40 PLN, while a monthly ticket for public transport is 110 or 180 PLN depending on the area of validity. Public health insurance is included in the post (this includes also admission to hospitals), however the medicines are paid separately.
 
-* Training of machine learning models for tabular and image data
-* Responsible ML solutions for the healthcare domain
-
-**Offer:**
-
-* Excellent atmosphere for work in a young and very active lab
-* Conferences and training budget
-* Short visits in cooperating abroad group
-* Access to CPU / GPU clusters
-* Elastic working hours that can be combined with studies
 
 ### Research Software Engineer {-}
 
+In addition to research positions, we also offer positions for skilled programmers.
+
 **Required:**
 
 * Background in Computer Science, Mathematics, Statistics or similar. 
-* Experience in Scientific Programming (R and/or Python and/or C++)
-* Interest in applications, machine learning and explainable artificial intelligence.
+* Experience in Computer Vision or NLP models
 
 **Scope of work:**
 
 * Training of machine learning models for tabular and image data
 * Interpretable solutions for tabular and image data
-* Interactive interfaces 
 * Responsible ML solutions for the healthcare domain
 
-**Offer:**
 
-* Excellent atmosphere for work in a young and very active lab
-* Conferences and training budget
-* Short visits in cooperating abroad group
-* Access to CPU / GPU clusters
-* Elastic working hours that can be combined with studies
-
-### Post-doc {-}
+<!--
   
 I am looking for a post-doc to join the MI2.AI team for one or two years within [HOMER](https://www.mi2.ai/research-grants.html#homer-2020-2025) project.
 The ideal fit is someone with (experience in Medical Image Analysis with deep learning models) OR (someone with experience in AutoML for tabular data).
