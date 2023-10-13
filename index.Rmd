@@ -182,7 +182,7 @@ Website: [hbaniecki.com](https://hbaniecki.com/)
 
 <img src="images/mcavus.jpg" >
 
-I work as an assistant professor at [Warsaw University of Technology](http://www.mini.pw.edu.pl/) and the [Eskisehir Technical University](https://www.eskisehir.edu.tr/). I joined the MI² DataLab as a post-doc researcher in 2021. I work on explainable artificial intelligence and AutoML.
+I work as an assistant professor at the [Eskisehir Technical University](https://www.eskisehir.edu.tr/). I joined the MI² DataLab as a post-doc researcher in 2021. I work on glocal explanations and imbalanced learning.
 
 Google Scholar: [I63d1WIAAAAJ&hl](https://scholar.google.com.tr/citations?user=I63d1WIAAAAJ&hl)
 
