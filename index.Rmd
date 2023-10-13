@@ -95,6 +95,7 @@ document.body.classList.add("two-columns")
 * [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
 * [Vladimir Zaigrajew](the-team.html#vladimir-zaigrajew), PhD student
 * [Artur Żółkowski](the-team.html#artur-żółkowski), BSc student
+* [Paulina Kaczyńska](the-team.html#paulina-kaczyńska), MSc student
 
 
 #### Collaborators {-}
@@ -247,6 +248,15 @@ Google Scholar: [aJeg3IQAAAAJ](https://scholar.google.pl/citations?user=aJeg3IQA
 GitHub: [Hryniewska](https://github.com/Hryniewska)
 
 LinkedIn: [weronikahryniewska](https://www.linkedin.com/in/weronikahryniewska)
+
+
+### Paulina Kaczyńska{-}
+
+<img src="images/paulina_kaczyńska.jpg" >
+
+I am working towards a Master’s degree in Machine Learning at University of Warsaw. I am interested in Natural Language Processing and ML applications in social sciences
+
+GitHub: [Kaczyniec](https://github.com/Kaczyniec)
 
 
 ### Piotr Komorowski{-}
