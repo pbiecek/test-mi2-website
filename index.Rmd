@@ -76,6 +76,7 @@ document.body.classList.add("two-columns")
 * [Mateusz Grzyb](the-team.html#mateusz-grzyb), MSc student
 * [Stanisław Giziński](the-team.html#stanisław-giziński), MSc student
 * [Weronika Hryniewska-Guzik](the-team.html#weronika-hryniewska-guzik), PhD student
+* [Paulina Kaczyńska](the-team.html#paulina-kaczyńska), MSc student
 * [Piotr Komorowski](the-team.html#piotr-komorowski), MSc student
 * [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), MSc student
 * [Tymoteusz Kwieciński](the-team.html#tymoteusz-kwiecinski), BSc student
@@ -95,7 +96,6 @@ document.body.classList.add("two-columns")
 * [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
 * [Vladimir Zaigrajew](the-team.html#vladimir-zaigrajew), PhD student
 * [Artur Żółkowski](the-team.html#artur-żółkowski), BSc student
-* [Paulina Kaczyńska](the-team.html#paulina-kaczyńska), MSc student
 
 
 #### Collaborators {-}
