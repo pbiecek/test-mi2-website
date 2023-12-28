@@ -369,6 +369,20 @@ List of topics and materials from past seminars: https://github.com/MI2DataLab/M
 
 
 
+### GliomAI 2024 {-}
+
+#### GliomAI: Artificial Intelligence for Radiogenomic Atlas of Gliomas {-}
+
+![](images/mi2-gliomai.png)
+
+The new 2021 WHO classification of brain tumours places more emphasis than before on genetic variation in the classification of tumour lesions. However, invasive procedures are required for genetic diagnosis, which pose risks to patients and limit access to molecular profiling. Radiomics, a non-invasive approach, allows the analysis of tumour features using imaging data such as magnetic resonance imaging (MRI), which is used to extract computational independent variables. This approach allows the analysis of heterogeneity, spatial relationships and textural patterns that characterise different tumour phenotypes, however, may not be graspable by human perception. The correlation of such computational variables obtained with genetic findings is called radiogenomics.
+
+Multidimensional datasets play a key role in the development of the field of radiogenomics. However, in order to do so, it is necessary to delineate regions of interest within imaging studies - so-called masks - which are ultimately used to extract computational variables. In this project, we plan to develop a novel radiomic database containing not only clinical, genetic and imaging data, but also the previously mentioned segmentation masks of gliomas and their immediate surroundings. To this end, an interdisciplinary research team will be formed, benefiting from the synergistic impact of the two units involved in the project at our Universities.
+
+**Work on this project is financially supported by Warsaw Medical University and Warsaw University of Technology within the Collaboration Initiative Programme WUM_PW INTEGRA 1.**
+
+
+
 ### ARES 2022-2026 {-}
 
 #### ARES: Attack-resistant Explanations toward Secure and trustworthy AI {-}
