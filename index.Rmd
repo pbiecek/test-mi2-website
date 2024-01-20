@@ -72,7 +72,7 @@ document.body.classList.add("two-columns")
 * [Przemysław Biecek](the-team.html#przemysław-biecek), PhD, DSc (Team Leader)
 * [Hubert Baniecki](the-team.html#hubert-baniecki), PhD student
 * [Mustafa Cavus](the-team.html#mustafa-cavus), PhD
-* [Maciej Chrabąszcz](the-team.html#maciej-chrabąszcz), MSc student
+* [Maciej Chrabąszcz](the-team.html#maciej-chrabąszcz), PhD student
 * [Mateusz Grzyb](the-team.html#mateusz-grzyb), MSc student
 * [Stanisław Giziński](the-team.html#stanisław-giziński), MSc student
 * [Weronika Hryniewska-Guzik](the-team.html#weronika-hryniewska-guzik), PhD student
@@ -208,7 +208,7 @@ LinkedIn: [julek-sienkiewicz-873829](https://www.linkedin.com/in/julek-sienkiewi
 
 <img src="images/maciej_chrabaszcz.jpg">
 
-Master's student in mathematical statisctics at Warsaw University of Technology. Interested in deep learning on text and images, explainable and responsible AI.
+I am pursuing a PhD in Computer Science at Warsaw University of Technology, where I also obtained my MSc in Mathematical Statistics in 2023. My main research interests lie in the fields of responsible and explainable machine learning, with a focus on Red Teaming foundation models.
 
 GitHub: [maciejchrabaszcz](https://github.com/maciejchrabaszcz)
 
