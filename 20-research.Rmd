@@ -378,7 +378,7 @@ List of topics and materials from past seminars: https://github.com/MI2DataLab/M
 
 
 
-### DeMeTeR: 2024 {-}
+### DeMeTeR: 2024-2028 {-}
 
 #### DeMeTeR: Interpreting Diffusion Models Through Representations {-}
 
