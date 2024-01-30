@@ -378,6 +378,22 @@ List of topics and materials from past seminars: https://github.com/MI2DataLab/M
 
 
 
+### DeMeTeR: 2024 {-}
+
+#### DeMeTeR: Interpreting Diffusion Models Through Representations {-}
+
+![](images/project-demeter.png)
+
+Diffusion models have been the latest revolution in the domain of generative modelling in computer vision, surpassing the capabilities of long-reigning generative adversarial networks , and are currently being adapted to multiple other domains and modalities. However, we still lack an in-depth understanding of their inner workings from both an empirical and theoretical standpoint.
+
+Considering that, the main goals of the DeMeTeR project are:
+
+1. to broaden the practical and theoretical understanding of diffusion-specific latent representations and architecture-specific internal representations of diffusion models,
+2. to develop novel methods of manipulating these representations that allow for enhancing safety and explainability of deep learning models
+
+**Work on this project is financially supported by the Polish National Science Centre PRELUDIUM BIS grant 2023/50/O/ST6/00301.**
+
+
 ### GliomAI 2024 {-}
 
 #### GliomAI: Artificial Intelligence for Radiogenomic Atlas of Gliomas {-}
