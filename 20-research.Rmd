@@ -411,7 +411,7 @@ Multidimensional datasets play a key role in the development of the field of rad
 
 #### PINEAPPLE: Explainable AI for hyperspectral image analysis {-}
 
-![](images/mi2-pineapple.png)
+![](images/project-pineapple.png)
 
 In the PINEAPPLE project (exPlaINablE Ai for hyPersPectraL imagE analysis), we will address the important research gap of lack of “trust” into (deep) machine learning algorithms for EO, through tackling two real-life EO downstream tasks (estimating soil parameters from HSI and detecting methane in such imagery) using new deep and classic machine learning algorithms empowered by new explainable AI (XAI) techniques. We believe that PINEAPPLE will be an important step toward not only “uncovering the magic” behind deep learning algorithms (hence building trust in them in EO downstream tasks), but also in showing that XAI techniques can be effectively utilized to improve such data-driven algorithms (both classic and deep machine learning-powered), ultimately leading to better algorithms. 
 
