@@ -1,0 +1,40 @@
+# MI²Cancer  {-}
+
+<script>
+document.body.classList.add("two-columns")
+document.querySelector(".page-inner section > *:first-child").classList.add("two-columns-layout")
+</script>
+
+
+<div>
+<img src="images/paper-Ki67.png">
+<a href="https://bjo.bmj.com/content/early/2023/09/21/bjo-2023-323816.abstract">Ki67 is a better marker than PRAME in risk stratification of BAP1-positive and BAP1-loss uveal melanomas</a>
+<p> Piotr Donizy, Mikołaj Spytek, Mateusz Krzyziński, Krzysztof Kotowski, Anna Markiewicz, Bozena Romanowska-Dixon, Przemyslaw Biecek, Mai P Hoang</p>
+<p><strong>British Journal of Ophthalmology (2023)</strong></p>
+Accurate risk stratification of uveal melanoma (UM) patients is important for determining the interval and frequency of surveillance. Loss of BAP1 expression has been shown to be strongly associated with UM-related death and metastasis.
+In this study of 164 enucleated UMs, we assessed the prognostic role of preferentially expressed antigen in melanoma (PRAME) expression and Ki67 proliferation index measured by digital quantitation using QuPath programme in patients with BAP1-positive and BAP1-loss UMs.
+</div>
+
+
+<div>
+<img src="images/paper-ejc.jpg">
+<a href="https://www.sciencedirect.com/science/article/pii/S0959804922004658">Machine learning models demonstrate that clinicopathologic variables are comparable to gene expression prognostic signature in predicting survival in uveal melanoma</a>
+<p>Piotr Donizy, Mateusz Krzyzinski, Anna Markiewicz, Pawel Karpinski, Krzysztof Kotowski, Artur Kowalik, Jolanta Orlowska-Heitzman, Bozena Romanowska-Dixon, Przemyslaw Biecek, Mai P. Hoang </p>
+<p><strong>European Journal of Cancer (2023)</strong></p>
+
+Molecular assays are not accessible to all uveal melanoma patients. We investigate machine learning models on clinicopathologic variables for risk stratification. Machine learning models included random survival forest and survival gradient boosting. They performed similarly or better than gene expression prognostic signature. Readily accessible clinicopathologic variables can provide adequate prognostic information.
+</div>
+
+
+
+<div>
+<img src="images/paper-signature.png">
+<a href="https://www.mdpi.com/2072-6694/14/2/439">A Signature of 14 Long Non-Coding RNAs (lncRNAs) as a Step towards Precision Diagnosis for NSCLC</a>
+<p>Anetta Sulewska, Jacek Niklinski, Radoslaw Charkiewicz, Piotr Karabowicz, Przemyslaw Biecek, Hubert Baniecki, Oksana Kowalczuk, Miroslaw Kozlowski, Patrycja Modzelewska, Piotr Majewski, Elzbieta Tryniszewska, Joanna Reszec, Zofia Dzieciol-Anikiej, Cezary Piwkowski, Robert Gryczka, Rodryg Ramlau </p>
+<p><strong>Cancers (2023)</strong></p>
+Although the biological function of lncRNAs has not been fully elucidated, we know that the aberrant expression of lncRNAs can drive the cancer phenotype. Therefore, a growing area of research is focusing on lncRNAs as putative diagnostic biomarkers and therapeutic targets. The aim of the study was the appraisal of the diagnostic value of 14 differentially expressed lncRNA in the early stages of NSCLC. We established two classifiers. The first recognized cancerous from noncancerous tissues, the second successfully discriminated NSCLC subtypes (LUAD vs. LUSC). Our results indicate that the panel of 14 lncRNAs can be a promising tool to support a routine histopathological diagnosis of NSCLC.
+</div>
+
+
+
+
