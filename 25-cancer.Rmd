@@ -1,7 +1,6 @@
 # MI²~~Cancer~~ {-}
 
 <h2 id="removeme">Papers</h2>
-
 <script>
 document.querySelector("h2").style.visibility='hidden'
 document.querySelector("h2").style.height='0px'
@@ -42,8 +41,31 @@ Although the biological function of lncRNAs has not been fully elucidated, we kn
 
 
 
+
+
 <div>
-<img src="images/paper-signature.png">
+<img src="images/paper-applied.png">
+<a href="https://www.mdpi.com/2072-6694/15/14/3742">Applied Molecular-Based Quality Control of Biobanked Samples for Multi-Omics Approach</a>
+<p>Anna Michalska-Falkowska, Jacek Niklinski, Hartmut Juhl, Anetta Sulewska, Joanna Kisluk, Radoslaw Charkiewicz, Michal Ciborowski, Rodryg Ramlau, Robert Gryczka, Cezary Piwkowski, Miroslaw Kozlowski, Borys Miskiewicz, Przemyslaw Biecek, Karolina Wnorowska, Zofia Dzieciol-Anikiej, Karine Sargsyan, Wojciech Naumnik, Robert Mroz, Joanna Reszec-Gielazyn</p>
+<p><strong>Cancers (2023)</strong></p>
+This study highlights the significance of quality assurance in biobanking facilities, specifically in the context of high-throughput research and novel molecular techniques. We established specific quality management workflows utilizing biospecimens collected from oncological patients in Polish clinics
+</div>
+
+<div>
+<img src="images/paper-merkel.png">
+<a href="https://www.mdpi.com/2072-6694/13/7/1621">Merkel Cell Carcinoma of Unknown Primary: Immunohistochemical and Molecular Analyses Reveal Distinct UV-Signatures</a>
+<p>Piotr Donizy, Joanna Wróblewska, Dora Dias-Santagata, Katarzyna Woznica, Przemyslaw Biecek, Mark Mochel, Cheng-Lin Wu, Janusz Kopczynski, Malgorzata Pieniazek, Janusz Ryś, Andrzej Marszalek, Mai Hoang</p>
+<p><strong>Cancers (2023)</strong></p>
+Similar to primary cutaneous Merkel cell carcinomas, virus-negative unknown primary tumors exhibited UV signatures and frequent high tumor mutational burdens, whereas few molecular alterations were noted in virus-positive tumors. Although additional studies are warranted for the virus-positive cases, our findings are supportive of a cutaneous metastatic origin for virus-negative Merkel cell carcinomas of unknown primary.
+</div>
+
+
+
+
+
+
+<div>
+<img src="images/paper-amelanotic.png">
 <a href="https://www.mdpi.com/2072-6694/14/11/2753">Amelanotic Uveal Melanomas Evaluated by Indirect Ophthalmoscopy Reveal Better Long-Term Prognosis Than Pigmented Primary Tumours—A Single Centre Experience</a>
 <p>Anna Markiewicz, Piotr Donizy, Monika Nowa, Mateusz Krzyziński, Martyna Elas, Przemysław Płonka, Jolanta Orłowska-Heitzmann, Przemysław Biecek, Mai P. Hoang, Bożena Romanowska-Dixon</p>
 <p><strong>Cancers (2022)</strong></p>
