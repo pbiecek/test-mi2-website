@@ -1,20 +1,16 @@
-# MI²Cancer  {-}
+# MI²~~Cancer~~ {-}
+
+<h2 id="removeme">Papers</h2>
 
 <script>
+document.querySelector("h2").style.visibility='hidden'
+document.querySelector("h2").style.height='0px'
+
 document.body.classList.add("two-columns")
+document.querySelector(".page-inner section > *:first-child").classList.remove("level1")
+document.querySelector(".page-inner section > *:first-child").classList.add("level2")
 document.querySelector(".page-inner section > *:first-child").classList.add("two-columns-layout")
 </script>
-
-
-<div>
-<img src="images/paper-Ki67.png">
-<a href="https://bjo.bmj.com/content/early/2023/09/21/bjo-2023-323816.abstract">Ki67 is a better marker than PRAME in risk stratification of BAP1-positive and BAP1-loss uveal melanomas</a>
-<p> Piotr Donizy, Mikołaj Spytek, Mateusz Krzyziński, Krzysztof Kotowski, Anna Markiewicz, Bozena Romanowska-Dixon, Przemyslaw Biecek, Mai P Hoang</p>
-<p><strong>British Journal of Ophthalmology (2023)</strong></p>
-Accurate risk stratification of uveal melanoma (UM) patients is important for determining the interval and frequency of surveillance. Loss of BAP1 expression has been shown to be strongly associated with UM-related death and metastasis.
-In this study of 164 enucleated UMs, we assessed the prognostic role of preferentially expressed antigen in melanoma (PRAME) expression and Ki67 proliferation index measured by digital quantitation using QuPath programme in patients with BAP1-positive and BAP1-loss UMs.
-</div>
-
 
 <div>
 <img src="images/paper-ejc.jpg">
@@ -25,6 +21,15 @@ In this study of 164 enucleated UMs, we assessed the prognostic role of preferen
 Molecular assays are not accessible to all uveal melanoma patients. We investigate machine learning models on clinicopathologic variables for risk stratification. Machine learning models included random survival forest and survival gradient boosting. They performed similarly or better than gene expression prognostic signature. Readily accessible clinicopathologic variables can provide adequate prognostic information.
 </div>
 
+
+<div>
+<img src="images/paper-Ki67.png">
+<a href="https://bjo.bmj.com/content/early/2023/09/21/bjo-2023-323816.abstract">Ki67 is a better marker than PRAME in risk stratification of BAP1-positive and BAP1-loss uveal melanomas</a>
+<p> Piotr Donizy, Mikołaj Spytek, Mateusz Krzyziński, Krzysztof Kotowski, Anna Markiewicz, Bozena Romanowska-Dixon, Przemyslaw Biecek, Mai P Hoang</p>
+<p><strong>British Journal of Ophthalmology (2023)</strong></p>
+Accurate risk stratification of uveal melanoma (UM) patients is important for determining the interval and frequency of surveillance. Loss of BAP1 expression has been shown to be strongly associated with UM-related death and metastasis.
+In this study of 164 enucleated UMs, we assessed the prognostic role of preferentially expressed antigen in melanoma (PRAME) expression and Ki67 proliferation index measured by digital quantitation using QuPath programme in patients with BAP1-positive and BAP1-loss UMs.
+</div>
 
 
 <div>
