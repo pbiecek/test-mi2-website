@@ -42,4 +42,32 @@ Although the biological function of lncRNAs has not been fully elucidated, we kn
 
 
 
+<div>
+<img src="images/paper-signature.png">
+<a href="https://www.mdpi.com/2072-6694/14/11/2753">Amelanotic Uveal Melanomas Evaluated by Indirect Ophthalmoscopy Reveal Better Long-Term Prognosis Than Pigmented Primary Tumours—A Single Centre Experience</a>
+<p>Anna Markiewicz, Piotr Donizy, Monika Nowa, Mateusz Krzyziński, Martyna Elas, Przemysław Płonka, Jolanta Orłowska-Heitzmann, Przemysław Biecek, Mai P. Hoang, Bożena Romanowska-Dixon</p>
+<p><strong>Cancers (2022)</strong></p>
+Patients with amelanotic uveal melanomas (those without pigment) lived longer and the eventual spread of the neoplastic process occurred later than in patients with heavily pigmented tumours. In heavily pigmented uveal melanomas, we found features on histopathological examination that were associated with an unfavourable prognosis. In the two separate groups of uveal melanomas with different degrees of pigmentation, we observed that amelanotic tumours with a lower clinical stage had the best prognosis.
+</div>
+
+
+
+
+<div>
+<img src="images/paper-miRNA.png">
+<a href="https://www.mdpi.com/1422-0067/24/19/14699">miRNA Studies in Glaucoma: A Comprehensive Review of Current Knowledge and Future Perspectives</a>
+<p>Margarita Dobrzycka, Anetta Sulewska, Przemyslaw Biecek, Radoslaw Charkiewicz, Piotr Karabowicz, Angelika Charkiewicz, Kinga Golaszewska, Patrycja Milewska, Anna Michalska-Falkowska, Karolina Nowak, Jacek Niklinski, Joanna Konopińska </p>
+<p><strong>International Journal of Molecular Sciences (2023)</strong></p>
+miRNA research in glaucoma has provided significant insights into the molecular mechanisms of the disease, offering potential biomarkers, diagnostic tools, and therapeutic targets. However, addressing challenges such as variability and limited tissue accessibility is essential, and further investigations and validation will contribute to a deeper understanding of the functional significance of miRNAs in glaucoma.
+</div>
+
+
+<div>
+<img src="images/paper-oncotarget.png">
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5669876/">Molecular chaperones in the acquisition of cancer cell chemoresistance with mutated TP53 and MDM2 up-regulation</a>
+<p>Zuzanna Tracz-Gaszewska, Marta Klimczak, Przemyslaw Biecek, Marcin Herok, Marcin Kosinski, Maciej Olszewski, Patrycja Czerwińska, Milena Wiech, Maciej Wiznerowicz, Alicja Zylicz, Maciej Zylicz, Bartosz Wawrzynow </p>
+<p><strong>Oncotarget (2017)</strong></p>
+Utilizing the TCGA PANCAN12 dataset we discovered that cancer patients with mutations in TP53 tumor suppressor and overexpression of MDM2 oncogene exhibited decreased survival post treatment.  Our findings demonstrate that molecular chaperones aid cancer cells in surviving the cytotoxic effect of chemotherapeutics and may have therapeutic implications.
+</div>
+
 
