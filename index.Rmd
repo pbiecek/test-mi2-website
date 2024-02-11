@@ -73,29 +73,17 @@ document.body.classList.add("two-columns")
 * [Hubert Baniecki](the-team.html#hubert-baniecki), PhD student
 * [Mustafa Cavus](the-team.html#mustafa-cavus), PhD
 * [Maciej Chrabąszcz](the-team.html#maciej-chrabąszcz), PhD student
-* [Mateusz Grzyb](the-team.html#mateusz-grzyb), MSc student
-* [Stanisław Giziński](the-team.html#stanisław-giziński), MSc student
 * [Weronika Hryniewska-Guzik](the-team.html#weronika-hryniewska-guzik), PhD student
-* [Paulina Kaczyńska](the-team.html#paulina-kaczyńska), MSc student
-* [Piotr Komorowski](the-team.html#piotr-komorowski), MSc student
 * [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), MSc student
 * [Tymoteusz Kwieciński](the-team.html#tymoteusz-kwiecinski), BSc student
 * [Stanisław Łaniewski](the-team.html#stanisław-łaniewski), PhD student
-* [Piotr Piątyszek](the-team.html#piotr-piątyszek), BSc student
-* [Hubert Ruczyński](the-team.html#hubert-ruczyński), MSc student
-* [Barbara Rychalska](the-team.html#barbara-rychalska), PhD student
 * [Nuno Sepúlveda](https://www.immune-stats.net), PhD
 * [Bartek Sobieski](the-team.html#bartek-sobieski), MSc student
 * [Mikołaj Spytek](the-team.html#mikołaj-spytek), MSc student
-* [Tomasz Stanisławek](the-team.html#tomasz-stanisławek), PhD
-* [Hoang Thien Ly](the-team.html#hoang-thien-ly), BSc student
 * [Paulina Tomaszewska](the-team.html#paulina-tomaszewska), PhD student
 * [Piotr Wilczyński](the-team.html#piotr-wilczyński), BSc student
-* [Emilia Wiśnios](the-team.html#emilia-wiśnios), MSc student
-* [Paweł Wojciechowski](the-team.html#paweł-wojciechowski), BSc
 * [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
 * [Vladimir Zaigrajew](the-team.html#vladimir-zaigrajew), PhD student
-* [Artur Żółkowski](the-team.html#artur-żółkowski), BSc student
 
 
 #### Collaborators {-}
@@ -103,16 +91,21 @@ document.body.classList.add("two-columns")
 * [Mariusz Adamek](https://www.mariuszadamek.io/), Prof, MD
 * Przemysław Bombiński, PhD, MD
 * [André Fonseca](https://www.immune-stats.net), PhD student
+* [Stanisław Giziński](the-team.html#stanisław-giziński), MSc student
 * Katarzyna Kobylińska, PhD student
+* [Piotr Komorowski](the-team.html#piotr-komorowski), MSc student
 * [Anna Kozak](the-team.html#anna-kozak), MSc
 * Marcin Luckner, PhD
 * [João Malato](https://www.immune-stats.net), PhD student
 * [Bartek Pieliński](the-team.html#bartosz-pieliński), PhD, DSc
 * [Hanna Piotrowska](the-team.html#hanna-piotrowska), MA
+* [Barbara Rychalska](the-team.html#barbara-rychalska), PhD student
 * Elżbieta Sienkiewicz, PhD
 * [Julian Sienkiewicz](the-team.html#julian-sienkiewicz), PhD
+* [Tomasz Stanisławek](the-team.html#tomasz-stanisławek), PhD
 * Adrian Stańdo, MSc student
 * Patryk Szatkowski, PhD student, MD
+* [Emilia Wiśnios](the-team.html#emilia-wiśnios), MSc student
 * [Jakub Wiśniewski](the-team.html#jakub-wiśniewski), MSc student
 
 <!-- #### Summer Interns {-} -->
@@ -123,6 +116,8 @@ document.body.classList.add("two-columns")
 * Piotr Czarnecki, MSc
 * Alicja Gosiewska, MSc
 * Adrianna Grudzień, BSc
+* [Mateusz Grzyb](the-team.html#mateusz-grzyb), MSc student
+* [Paulina Kaczyńska](the-team.html#paulina-kaczyńska), MSc student
 * Maria Kałuska, BSc
 * Marcin Kosiński, MSc
 * Adam Kozłowski, MSc
@@ -131,6 +126,8 @@ document.body.classList.add("two-columns")
 * Szymon Maksymiuk, BSc
 * Tomasz Mikołajczyk, PhD
 * Katarzyna Pękala, MSc
+* [Piotr Piątyszek](the-team.html#piotr-piątyszek), BSc student
+* [Hubert Ruczyński](the-team.html#hubert-ruczyński), MSc student
 * Adam Rydelek, BSc
 * Bartosz Sawicki, BSc
 * Patryk Słowakiewicz, BSc
@@ -138,9 +135,12 @@ document.body.classList.add("two-columns")
 * Mateusz Stączek, BSc
 * Szymon Szmajdziński, BSc
 * Zuzanna Trafas, BSc
+* [Hoang Thien Ly](the-team.html#hoang-thien-ly), BSc student
 * Kinga Ułasik, BSc
 * Anna Wróblewska, PhD
+* [Paweł Wojciechowski](the-team.html#paweł-wojciechowski), BSc
 * Hanna Zdulska, BSc
+* [Artur Żółkowski](the-team.html#artur-żółkowski), BSc student
 
 <div class="masonry">
 
