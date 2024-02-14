@@ -107,6 +107,7 @@ document.body.classList.add("two-columns")
 * Patryk Szatkowski, PhD student, MD
 * [Emilia Wiśnios](the-team.html#emilia-wiśnios), MSc student
 * [Jakub Wiśniewski](the-team.html#jakub-wiśniewski), MSc student
+* [Mateusz Wójcik](the-team.html#mateusz-wójcik), MSc student
 
 <!-- #### Summer Interns {-} -->
 
@@ -645,6 +646,17 @@ PhD in social sciences, but in recent years has devoted himself to the area of d
 GitHub: [tmikolajczyk](https://github.com/tmikolajczyk)
 
 LinkedIn: [tomasz-mikolajczyk-ds](https://www.linkedin.com/in/tomasz-mikolajczyk-ds) 
+
+### Mateusz Wójcik {-}
+
+<img src="images/mateusz_wojcik.jpg" >
+
+Machine Learning Engineer, Research Software Engineer, MSc student in Data Science with Bachelor's degree in mathematics at Warsaw University of Technology. Interested in deep learning for computer vision, geospatial data, and medical imaging. 
+
+GitHub: [marneusz](https://github.com/marneusz)
+
+LinkedIn: [mateusz-wójcik](https://www.linkedin.com/in/mateusz-w%C3%B3jcik-859a62264/)
+
 -->
 
 
