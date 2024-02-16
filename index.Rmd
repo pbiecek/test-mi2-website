@@ -93,13 +93,13 @@ document.body.classList.add("two-columns")
 * [André Fonseca](https://www.immune-stats.net), PhD student
 * [Stanisław Giziński](the-team.html#stanisław-giziński), MSc student
 * Katarzyna Kobylińska, PhD student
-* [Piotr Komorowski](the-team.html#piotr-komorowski), MSc student
+* [Piotr Komorowski](the-team.html#piotr-komorowski), MSc
 * [Anna Kozak](the-team.html#anna-kozak), MSc
 * Marcin Luckner, PhD
 * [João Malato](https://www.immune-stats.net), PhD student
 * [Bartek Pieliński](the-team.html#bartosz-pieliński), PhD, DSc
 * [Hanna Piotrowska](the-team.html#hanna-piotrowska), MA
-* [Barbara Rychalska](the-team.html#barbara-rychalska), PhD student
+* [Barbara Rychalska](the-team.html#barbara-rychalska), PhD
 * Elżbieta Sienkiewicz, PhD
 * [Julian Sienkiewicz](the-team.html#julian-sienkiewicz), PhD
 * [Tomasz Stanisławek](the-team.html#tomasz-stanisławek), PhD
@@ -135,12 +135,12 @@ document.body.classList.add("two-columns")
 * Mateusz Stączek, BSc
 * Szymon Szmajdziński, BSc
 * Zuzanna Trafas, BSc
-* [Hoang Thien Ly](the-team.html#hoang-thien-ly), BSc student
+* [Hoang Thien Ly](the-team.html#hoang-thien-ly), BSc
 * Kinga Ułasik, BSc
 * Anna Wróblewska, PhD
 * [Paweł Wojciechowski](the-team.html#paweł-wojciechowski), BSc
 * Hanna Zdulska, BSc
-* [Artur Żółkowski](the-team.html#artur-żółkowski), BSc student
+* [Artur Żółkowski](the-team.html#artur-żółkowski), BSc
 
 <div class="masonry">
 
