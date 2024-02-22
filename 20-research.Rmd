@@ -20,6 +20,15 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 
 
 <div>
+<img src="images/advxai.png">
+<a href="https://doi.org/10.1016/j.inffus.2024.102303">Adversarial attacks and defenses in explainable artificial intelligence: A survey</a>
+<p> Hubert Baniecki, Przemysław Biecek</p>
+<p><strong>Information Fusion (2024)</strong></p>
+Explanations of machine learning models can be manipulated. We introduce a unified notation and taxonomy of adversarial attacks on explanations. Adversarial examples, data poisoning, and backdoor attacks are key safety issues in XAI. Defense methods like model regularization improve the robustness of explanations. We outline the emerging research directions in adversarial XAI.
+</div>
+
+
+<div>
 <img src="images/survex.png">
 <a href="https://doi.org/10.1093/bioinformatics/btad723">survex: an R package for explaining machine learning survival models</a>
 <p> Mikołaj Spytek, Mateusz Krzyziński, Sophie Hanna Langbein, Hubert Baniecki, Marvin N Wright, Przemysław Biecek</p>
