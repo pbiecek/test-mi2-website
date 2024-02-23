@@ -1,4 +1,4 @@
-# MI²Space  {.unnumbered #mi2space}
+# MI²Space {-}
 
 <img src="images/intro-space.png" style="width: 95%;">
 
