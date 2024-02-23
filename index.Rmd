@@ -650,6 +650,8 @@ LinkedIn: [tomasz-mikolajczyk-ds](https://www.linkedin.com/in/tomasz-mikolajczyk
 
 </div>
 
+<!--
+
 ## Open Positions {-}
 
 <img src="images/positions_mi2.png" style="width: 100%;">
