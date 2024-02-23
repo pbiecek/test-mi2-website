@@ -124,6 +124,7 @@
     .summary .chapter a[href^=mi²blueteam]:hover,
     .summary .chapter a[href^=mi²solutions]:hover,
     .summary .chapter a[href^=mi²cancer]:hover,
+    .summary .chapter a[href^=mi²space]:hover,
     .summary .chapter a[href^=mi²research]:hover,
     .summary .chapter a[href^=mi²education]:hover {
         filter: invert(22%) sepia(69%) saturate(3400%) hue-rotate(245deg) brightness(87%) contrast(93%)
@@ -136,6 +137,7 @@
 .summary .chapter a[href^=mi²blueteam],
 .summary .chapter a[href^=mi²solutions],
 .summary .chapter a[href^=mi²cancer],
+.summary .chapter a[href^=mi²space],
 .summary .chapter a[href^=mi²research],
 .summary .chapter a[href^=mi²education] {
     color: transparent !important;
@@ -163,6 +165,10 @@
 .summary .chapter a[href^=mi²cancer] {
     background-repeat: no-repeat !important;
     background-image: url("../images/MI2_Cancer.svg") !important;
+}
+.summary .chapter a[href^=mi²space] {
+    background-repeat: no-repeat !important;
+    background-image: url("../images/MI2_Space.svg") !important;
 }
 .summary .chapter a[href^=mi²redteam],
 .summary .chapter a[href^=mi2redteam] {

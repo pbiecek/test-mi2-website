@@ -4,7 +4,7 @@
 
 **MI²Space Team** develops methods, software, and systems for the validation, debugging and auditing of artificial intelligence algorithms used in space missions. The research is being conducted for the [European Space Agency](https://www.esa.int/").
 
-### Open Positions {-}
+#### Open Positions {-}
 
 We are currently looking for a Research Software Developer for a project related to the explainability of computer vision models.
 
