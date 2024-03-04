@@ -85,6 +85,7 @@ document.body.classList.add("two-columns")
 * [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
 * [Vladimir Zaigrajew](the-team.html#vladimir-zaigrajew), PhD student
 * [Filip Kołodziejczyk](the-team.html#filip-kołodziejczyk), MSc student
+* [Jakub Świstak](the-team.html#jakub-swistak), MSc student
 
 
 #### Collaborators {-}
@@ -421,6 +422,18 @@ GitHub: [mikolajsp](https://github.com/mikolajsp)
 LinkedIn: [Mikołaj-Spytek](https://www.linkedin.com/in/miko%C5%82aj-spytek-154760212/)
   
   
+### Jakub Świstak {-}
+
+<img src="images/jswistak.jpg">
+  
+MSc student in Data Science at Warsaw University of Technology. Interested in artificial intelligence, NLP and computer vision.
+  
+GitHub: [jswistak](https://github.com/jswistak)
+  
+LinkedIn: [Jakub-Świstak](https://www.linkedin.com/in/jakubswistak/)
+
+
+
 ### Tomasz Stanisławek {-}
 
 <img src="images/ts.jpg" >
