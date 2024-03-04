@@ -84,6 +84,7 @@ document.body.classList.add("two-columns")
 * [Piotr Wilczyński](the-team.html#piotr-wilczyński), BSc student
 * [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
 * [Vladimir Zaigrajew](the-team.html#vladimir-zaigrajew), PhD student
+* [Filip Kołodziejczyk](the-team.html#filip-kołodziejczyk), MSc student
 * [Jakub Świstak](the-team.html#jakub-swistak), MSc student
 
 
@@ -559,6 +560,15 @@ GitHub: [arturzolkowski](https://github.com/arturzolkowski)
 
 LinkedIn: [Artur-Żółkowski](https://www.linkedin.com/in/azolkowski/)
 
+### Filip Kołodziejczyk {-}
+
+<img src="images/filip_kolodziejczyk.jpeg">
+
+MSc student in Data Science at Warsaw University of Technology. Interested primarly in Large Language Models. Currently researching Red Teaming of such models. At the same time, a DevOps professional.
+
+GitHub: [FilipKolodziejczyk](https://github.com/FilipKolodziejczyk)
+
+LinkedIn: [filip-kołodziejczyk-00](https://www.linkedin.com/in/filip-kołodziejczyk-00/)
 
 
 <!-- 
