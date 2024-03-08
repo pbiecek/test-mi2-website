@@ -77,6 +77,7 @@ document.body.classList.add("two-columns")
 * [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), MSc student
 * [Tymoteusz Kwieciński](the-team.html#tymoteusz-kwiecinski), BSc student
 * [Stanisław Łaniewski](the-team.html#stanisław-łaniewski), PhD student
+* [Wiktoria Mieleszczenko-Kowszewicz] (the-team.html#wiktoria-mieleszczenko-kowszewicz), PhD
 * [Nuno Sepúlveda](https://www.immune-stats.net), PhD
 * [Bartek Sobieski](the-team.html#bartek-sobieski), MSc student
 * [Mikołaj Spytek](the-team.html#mikołaj-spytek), MSc student
@@ -99,7 +100,6 @@ document.body.classList.add("two-columns")
 * [Anna Kozak](the-team.html#anna-kozak), MSc
 * Marcin Luckner, PhD
 * [João Malato](https://www.immune-stats.net), PhD student
-* [Wiktoria Mieleszczenko-Kowszewicz], PhD
 * [Bartek Pieliński](the-team.html#bartosz-pieliński), PhD, DSc
 * [Hanna Piotrowska](the-team.html#hanna-piotrowska), MA
 * [Barbara Rychalska](the-team.html#barbara-rychalska), PhD
