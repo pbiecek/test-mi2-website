@@ -99,6 +99,7 @@ document.body.classList.add("two-columns")
 * [Anna Kozak](the-team.html#anna-kozak), MSc
 * Marcin Luckner, PhD
 * [João Malato](https://www.immune-stats.net), PhD student
+* [Wiktoria Mieleszczenko-Kowszewicz], PhD
 * [Bartek Pieliński](the-team.html#bartosz-pieliński), PhD, DSc
 * [Hanna Piotrowska](the-team.html#hanna-piotrowska), MA
 * [Barbara Rychalska](the-team.html#barbara-rychalska), PhD
@@ -329,6 +330,13 @@ His research focuses on enhancing classical methods used in discrete choice and 
   
 LinkedIn: [Stanisław-Łaniewski](https://www.linkedin.com/in/stanislawlaniewski/)
 
+### Wiktoria Mieleszczenko-Kowszewicz {-}
+
+<img src="images/wiktoria-mk.jpg" >
+
+PhD in social science, graduated from an interdisciplinary doctoral program: information and communication technologies & psychology. Researcher interested in the use of LLMs in psychometry and developing responsible AI solutions for positive societal impact.
+
+LinkedIn: [Wiktoria Mieleszczenko-Kowszewicz](https://www.linkedin.com/in/wiktoriakowszewicz/)
   
 ### Piotr Piątyszek {-}
 
