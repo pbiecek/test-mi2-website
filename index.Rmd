@@ -74,6 +74,7 @@ document.body.classList.add("two-columns")
 * [Mustafa Cavus](the-team.html#mustafa-cavus), PhD
 * [Maciej Chrabąszcz](the-team.html#maciej-chrabąszcz), PhD student
 * [Weronika Hryniewska-Guzik](the-team.html#weronika-hryniewska-guzik), PhD student
+* [Filip Kołodziejczyk](the-team.html#filip-kołodziejczyk), MSc student
 * [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), MSc student
 * [Tymoteusz Kwieciński](the-team.html#tymoteusz-kwiecinski), BSc student
 * [Stanisław Łaniewski](the-team.html#stanisław-łaniewski), PhD student
@@ -81,12 +82,11 @@ document.body.classList.add("two-columns")
 * [Nuno Sepúlveda](https://www.immune-stats.net), PhD
 * [Bartek Sobieski](the-team.html#bartek-sobieski), MSc student
 * [Mikołaj Spytek](the-team.html#mikołaj-spytek), MSc student
+* [Jakub Świstak](the-team.html#jakub-swistak), MSc student
 * [Paulina Tomaszewska](the-team.html#paulina-tomaszewska), PhD student
 * [Piotr Wilczyński](the-team.html#piotr-wilczyński), BSc student
 * [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
 * [Vladimir Zaigrajew](the-team.html#vladimir-zaigrajew), PhD student
-* [Filip Kołodziejczyk](the-team.html#filip-kołodziejczyk), MSc student
-* [Jakub Świstak](the-team.html#jakub-swistak), MSc student
 
 
 #### Collaborators {-}
