@@ -10,12 +10,13 @@
 
 Our current *core* research topics of interest include:
 
-- [**ARES**] Attack-Resistant Explanations towards Secure AI, i.e. a critical evaluation of the state-of-the-art analysis techniques 
+- [**ARES**] Robustness *of* explanations and explanations *for* model robustness
 - [**xSurvival**] Explanatory analysis of machine learning survival models
 - [**Large Model Analysis**] Explanatory analysis of large models, e.g. transformers
 
 **Methods and methodologies** introduced by our team:
 
+- [Red-teaming segment anything model (SAM)](https://doi.org/10.48550/arXiv.2404.02067)
 - [Evaluating explanations of vision transformers](https://arxiv.org/abs/2304.06133)
 - [InteractiveEMA](https://doi.org/10.1007/s10618-023-00924-w) towards human-model interaction in explainable machine learning for tabular data
 - [SurvSHAP(t)](https://doi.org/10.1016/j.knosys.2022.110234) for time-dependent analysis of machine learning survival models
