@@ -27,6 +27,14 @@ The Segment Anything Model is one of the first and most well-known foundation mo
 </div>
 
 <div>
+<img src="images/redteaming_hsi.png">
+<a href="https://arxiv.org/abs/2403.08017">Red Teaming Models for Hyperspectral Image Analysis Using Explainable AI</a>
+<p> Vladimir Zaigrajew, Hubert Baniecki, Lukasz Tulczyjew, Agata M. Wijata, Jakub Nalepa, Nicolas Longépé, Przemyslaw Biecek</p>
+<p><strong>ICLR Workshops (2024)</strong></p>
+Remote sensing applications require machine learning models that are reliable and robust, highlighting the importance of red teaming for uncovering flaws and biases. We introduce a novel red teaming approach for hyperspectral image analysis, specifically for soil parameter estimation in the Hyperview challenge. Utilizing SHAP for red teaming, we enhanced the top-performing model based on our findings. Additionally, we introduced a new visualization technique to improve model understanding in the hyperspectral domain.
+</div>
+
+<div>
 <img src="images/advxai.png">
 <a href="https://doi.org/10.1016/j.inffus.2024.102303">Adversarial attacks and defenses in explainable artificial intelligence: A survey</a>
 <p> Hubert Baniecki, Przemysław Biecek</p>
@@ -49,7 +57,7 @@ This paper demonstrates the functionalities of the <a href="https://github.com/M
 <a href="https://doi.org/10.1007/s10994-023-06359-0">Consolidated learning: a domain-specific model-free optimization strategy with validation on metaMIMIC benchmarks</a>
 <p>Katarzyna Woźnica, Mateusz Grzyb, Zuzanna Trafas, Przemysław Biecek </p>
 <p><strong>Machine Learning (2023)</strong></p>
-This paper proposes a new formulation of the tuning problem, called consolidated learning, more suited to practical challenges faced by model developers, in which a large number of predictive models are created on similar datasets. We show that a carefully selected static portfolio of hyperparameter configurations yields good results for anytime optimization, while maintaining the ease of use and implementation. We demonstrate the effectiveness of this approach through an empirical study for the XGBoost algorithm and the newly created metaMIMIC benchmarks of predictive tasks extracted from the MIMIC-IV medical database. 
+This paper proposes a new formulation of the tuning problem, called consolidated learning, more suited to practical challenges faced by model developers, in which a large number of predictive models are created on similar datasets. We show that a carefully selected static portfolio of hyperparameter configurations yields good results for anytime optimization, while maintaining the ease of use and implementation. We demonstrate the effectiveness of this approach through an empirical study for the XGBoost algorithm and the newly created metaMIMIC benchmarks of predictive tasks extracted from the MIMIC-IV medical database.
 </div>
 
 
@@ -108,7 +116,7 @@ The expected goal provides a more representative measure of the team and player 
 
 
 <div>
-<img src="images/paper_gdf.png"> 
+<img src="images/paper_gdf.png">
 <a href="https://doi.org/10.1038/s41598-022-21417-8">Multi-omics disease module detection with an explainable Greedy Decision Forest</a>
 <p>Bastian Pfeifer, Hubert Baniecki, Anna Saranti, Przemyslaw Biecek, Andreas Holzinger</p>
 <p><strong>Scientific Reports (2022)</strong></p>
@@ -148,7 +156,7 @@ In this work, we present a robust framework to (i) perform a threefold classific
 <a href="https://link.springer.com/article/10.1007/s10994-022-06204-w">LIMEcraft: handcrafted superpixel selection and inspection for Visual eXplanations</a>
 <p>Weronika Hryniewska, Adrianna Grudzień, Przemysław Biecek</p>
 <p><strong>Machine Learning (2022)</strong></p>
-LIMEcraft enhances the process of explanation by allowing a user to interactively select semantically consistent areas and thoroughly examine the prediction for the image instance in case of many image features. Experiments on several models show that our tool improves model safety by inspecting model fairness for image pieces that may indicate model bias. The code is available at: <a href="https://github.com/MI2DataLab/LIMEcraft">this URL</a>. 
+LIMEcraft enhances the process of explanation by allowing a user to interactively select semantically consistent areas and thoroughly examine the prediction for the image instance in case of many image features. Experiments on several models show that our tool improves model safety by inspecting model fairness for image pieces that may indicate model bias. The code is available at: <a href="https://github.com/MI2DataLab/LIMEcraft">this URL</a>.
 </div>
 
 
@@ -214,7 +222,7 @@ To build a new generation of meta-models we need a deeper understanding of the i
 case study of the abnormalities detection in the chest</a>
 <p>Weronika Hryniewska, Piotr Czarnecki, Jakub Wiśniewski, Przemysław Bombiński, Przemysław Biecek</p>
 <p><strong>CVPR Workshop on “Beyond Fairness: Towards a Just, Equitable, and Accountable Computer Vision” (2021)</strong></p>
-In this paper, we analyze in detail a single use case - a Kaggle competition related to the detection of abnormalities in X-ray lung images. We demonstrate how a series of simple tests for data imbalance exposes faults in the data acquisition and annotation process. Complex models are able to learn such artifacts and it is difficult to remove this bias during or after the training. 
+In this paper, we analyze in detail a single use case - a Kaggle competition related to the detection of abnormalities in X-ray lung images. We demonstrate how a series of simple tests for data imbalance exposes faults in the data acquisition and annotation process. Complex models are able to learn such artifacts and it is difficult to remove this bias during or after the training.
 </div>
 
 
@@ -223,7 +231,7 @@ In this paper, we analyze in detail a single use case - a Kaggle competition rel
 <p><a href="https://www.sciencedirect.com/science/article/pii/S016792362100066X">Simpler is better: Lifting interpretability-performance trade-off via automated feature engineering</a></p>
 <p>Alicja Gosiewska, Anna Kozak, Przemysław Biecek</p>
 <p><strong>Decision Support Systems (2021)</strong></p>
-We propose a framework that uses elastic black boxes as supervisor models to create simpler, less opaque, yet still accurate and interpretable glass box models. The new models were created using newly engineered features extracted with the help of a supervisor model. We supply the analysis using a large-scale benchmark on several tabular data sets from the OpenML database. 
+We propose a framework that uses elastic black boxes as supervisor models to create simpler, less opaque, yet still accurate and interpretable glass box models. The new models were created using newly engineered features extracted with the help of a supervisor model. We supply the analysis using a large-scale benchmark on several tabular data sets from the OpenML database.
 </div>
 
 
@@ -420,7 +428,7 @@ Considering that, the main goals of the DeMeTeR project are:
 The PvSTATEM project aims to demonstrate the efficacy and the community acceptability of P. vivax Serological Testing and Treatment (PvSeroTAT), a new
 intervention for the control and elimination of malaria, in cluster-randomised trials in Ethiopia and Madagascar. The project will also innovate new mobile
 technologies for the efficient implementation of PvSeroTAT in settings beyond clinical trials. The PvSeroTAT intervention includes a serological diagnostic
-test that measures antibodies to multiple P. vivax antigens and informs an individual-level treatment decision. However, the results from serological tests can also inform population-level surveillance of malaria. In this Hop-on project, mathematical models, machine learning tools, and digital technologies will be developed so that data generated by the clinical trials in Ethiopia and Madagascar can inform national malaria surveillance programs. 
+test that measures antibodies to multiple P. vivax antigens and informs an individual-level treatment decision. However, the results from serological tests can also inform population-level surveillance of malaria. In this Hop-on project, mathematical models, machine learning tools, and digital technologies will be developed so that data generated by the clinical trials in Ethiopia and Madagascar can inform national malaria surveillance programs.
 
 **Work on this project is financially supported by the HORIZON grant HORIZON-WIDERA-2022-ACCESS-07-01.**
 
@@ -444,11 +452,11 @@ Multidimensional datasets play a key role in the development of the field of rad
 
 ![](images/project-pineapple.png)
 
-In the PINEAPPLE project (exPlaINablE Ai for hyPersPectraL imagE analysis), we will address the important research gap of lack of “trust” into (deep) machine learning algorithms for EO, through tackling two real-life EO downstream tasks (estimating soil parameters from HSI and detecting methane in such imagery) using new deep and classic machine learning algorithms empowered by new explainable AI (XAI) techniques. We believe that PINEAPPLE will be an important step toward not only “uncovering the magic” behind deep learning algorithms (hence building trust in them in EO downstream tasks), but also in showing that XAI techniques can be effectively utilized to improve such data-driven algorithms (both classic and deep machine learning-powered), ultimately leading to better algorithms. 
+In the PINEAPPLE project (exPlaINablE Ai for hyPersPectraL imagE analysis), we will address the important research gap of lack of “trust” into (deep) machine learning algorithms for EO, through tackling two real-life EO downstream tasks (estimating soil parameters from HSI and detecting methane in such imagery) using new deep and classic machine learning algorithms empowered by new explainable AI (XAI) techniques. We believe that PINEAPPLE will be an important step toward not only “uncovering the magic” behind deep learning algorithms (hence building trust in them in EO downstream tasks), but also in showing that XAI techniques can be effectively utilized to improve such data-driven algorithms (both classic and deep machine learning-powered), ultimately leading to better algorithms.
 
 Finally, we will put special effort into:
 
-1. unbiasing the validation of existing and emerging algorithms through ensuring their full reproducibility (both at the algorithm and at the data level), and 
+1. unbiasing the validation of existing and emerging algorithms through ensuring their full reproducibility (both at the algorithm and at the data level), and
 2. understanding & improving the generalization of such algorithms when fundamentally different data is used for testing (e.g., noisy, with simulated other atmospheric conditions, captured in different area/time, and so forth)
 
 **Work on this project is financially supported by European Space Agency grant ESA AO/1-11524/22/I-DT.**
@@ -482,7 +490,7 @@ Achieving the first goal primarily impacts various domains of research, which cu
 
 Developing the tools for automated analysis of content of legal documents leveraging Natural Language Processing, that will help understand the dynamic of change in public policies and variables influencing those changes.
 
-Those tools will be firstly used to analyse the case of development of policy subsystem regulating usage of AI in the European Union. 
+Those tools will be firstly used to analyse the case of development of policy subsystem regulating usage of AI in the European Union.
 
 **Specific goals of the project**
 
@@ -587,5 +595,3 @@ Here is the skeleton for our approach: (1) Use ensembles in order to building a 
 **Research project impact.** Genetic profiling is more and more important and has number of application starting from basic classification up to personalized medicine in which patients are profiled against different signatures. Existing tools for genetic signatures have many citations. This we assume that the methodology for integrated genetic profiling will be a very useful for many research groups. It is hard to overestimate the impact of better genetic profiling on medicine. Moreover we build a team of people with knowledge in cancer genetic profiling
 
 **Work on this project is financially supported from the OPUS grant 2016/21/B/ST6/02176 funded by Polish National Science Centre (NCN).**
-
-
