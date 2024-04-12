@@ -334,7 +334,7 @@ LinkedIn: [Stanisław-Łaniewski](https://www.linkedin.com/in/stanislawlaniewski
 
 <img src="images/wiktoria-mk.jpg" >
 
-PhD in social science, graduated from an interdisciplinary doctoral program: information and communication technologies & psychology. Researcher interested in the use of LLMs in psychometry and developing responsible AI solutions for positive societal impact.
+PhD in social science, graduated from an interdisciplinary doctoral program: information and communication technologies & psychology. Researcher interested in the use of LLMs in psychometrics and developing responsible AI solutions for positive societal impact.
 
 LinkedIn: [Wiktoria Mieleszczenko-Kowszewicz](https://www.linkedin.com/in/wiktoriakowszewicz/)
   
