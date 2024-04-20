@@ -4,35 +4,15 @@
 
 **MI²Space Team** develops methods, software, and systems for the validation, debugging and auditing of artificial intelligence algorithms used in space missions. The research is being conducted for the [European Space Agency](https://www.esa.int/").
 
-#### Open Positions {-}
 
-We are currently looking for a Research Software Developer for a project related to the explainability of computer vision models.
+#### Red Teaming Models for Hyperspectral Image Analysis Using Explainable AI {-}
 
-<b>Requirements:</b>
+<div>
+<img src="images/redteaming_hsi.png" align="left">
+<a href="https://doi.org/10.48550/arXiv.2403.08017">Red Teaming Models for Hyperspectral Image Analysis Using Explainable AI</a>
+<p> Vladimir Zaigrajew, Hubert Baniecki, Lukasz Tulczyjew, Agata M. Wijata, Jakub Nalepa, Nicolas Longépé, Przemyslaw Biecek</p>
+<p><strong>ICLR Workshops (2024)</strong></p>
+Remote sensing applications require machine learning models that are reliable and robust, highlighting the importance of red teaming for uncovering flaws and biases. We introduce a novel red teaming approach for hyperspectral image analysis, specifically for soil parameter estimation in the Hyperview challenge. Utilizing SHAP for red teaming, we enhanced the top-performing model based on our findings. Additionally, we introduced a new visualization technique to improve model understanding in the hyperspectral domain.
+</div>
 
-- background in computer science
-- very good programming skills in Python
-- ability to write Python packages with tests and documentation
-- experience in machine learning, deep learning, computer vision
-- proficiency in packages for machine learning: torch, torchvision, scikit-learn
-- good communication skills and problem-solving skills.
-- proactive with initiative
-
-
-<b>Nice to have:</b>
-
-- experience in explainable/interpretable machine learning
-- proficiency in packages for explainable machine learning: shap, captum
-
-
-<b>We offer:<b>
-
-- competitive salary depending on experience
-- The opportunity to combine working on a diploma thesis (engineering, master's or PhD) with working on projects in our team 
-- the opportunity to learn from experienced and motivated researchers at different career levels as well as the opportunity to work with a rich network of international and interdisciplinary collaborators
-- access to our supercomputers, among them Eden with 32x A100 cards and 1.5TB of storage
-
-<b>Interested?</b>
-
-Send a CV and motivation latter to przemyslaw.biecek at pw.edu.pl.
 
