@@ -2,6 +2,25 @@
 
 Beta Bit is a series of books about data analysis, data visualisation and machine learning using the adventures of two scientists - mathematician Beta and computer scientist Bit. Together they have interesting experiences analysing a wide variety of data. Because data analysis is one of the most interesting adventures!
 
+
+## Books {-}
+
+<script>
+document.body.classList.add("two-columns")
+document.querySelector(".page-inner section > *:first-child").classList.add("two-columns-layout")
+</script>
+
+#### Explanatory Model Analysis {-}
+
+<div>
+<img src="images/mini_ema.png" align="left">
+<a href="https://pbiecek.github.io/ema/">Explanatory Model Analysis</a>
+<p>Explore, Explain, and Examine Predictive Models. With examples in R and Python</p>
+<p>Przemysław Biecek, Tomasz Burzykowski</p>
+<p><strong>Chapman and Hall/CRC, New York (2021)</strong></p>
+</div>
+
+
 #### Chaos Game {-}
 
 <div>
@@ -69,6 +88,7 @@ Beta Bit is a series of books about data analysis, data visualisation and machin
 <p>Przemysław Biecek</p>
 <p>Wydawnictwo Naukowe PWN <i>2013-2018</i></p>
 </div>
+
 
 #### Eseje o sztuce wizualizacji danych {-}
 
