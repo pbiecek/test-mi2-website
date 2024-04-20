@@ -12,7 +12,7 @@
 #### Red-Teaming SAM {-}
 
 <div>
-<img src="images/redteaming_sam.png">
+<img src="images/redteaming_sam.png" align="left">
 <a href="https://doi.org/10.48550/arXiv.2404.02067">Red-Teaming Segment Anything Model</a>
 <p> Krzysztof Jankowski, Bartlomiej Sobieski, Mateusz Kwiatkowski, Jakub Szulc, Michal Janik, Hubert Baniecki, Przemyslaw Biecek</p>
 <p><strong>CVPR Workshops (2024)</strong></p>
@@ -22,7 +22,7 @@ The Segment Anything Model is one of the first and most well-known foundation mo
 #### Red-Teaming HSI {-}
 
 <div>
-<img src="images/redteaming_hsi.png">
+<img src="images/redteaming_hsi.png" align="left">
 <a href="https://doi.org/10.48550/arXiv.2403.08017">Red Teaming Models for Hyperspectral Image Analysis Using Explainable AI</a>
 <p> Vladimir Zaigrajew, Hubert Baniecki, Lukasz Tulczyjew, Agata M. Wijata, Jakub Nalepa, Nicolas Longépé, Przemyslaw Biecek</p>
 <p><strong>ICLR Workshops (2024)</strong></p>
@@ -32,7 +32,7 @@ Remote sensing applications require machine learning models that are reliable an
 #### Adversarial attacks and defenses for XAI {-}
 
 <div>
-<img src="images/advxai.png">
+<img src="images/advxai.png" align="left">
 <a href="https://doi.org/10.1016/j.inffus.2024.102303">Adversarial attacks and defenses in explainable artificial intelligence: A survey</a>
 <p> Hubert Baniecki, Przemysław Biecek</p>
 <p><strong>Information Fusion (2024)</strong></p>
@@ -42,7 +42,7 @@ Explanations of machine learning models can be manipulated. We introduce a unifi
 #### Software: survex {-}
 
 <div>
-<img src="images/survex.png">
+<img src="images/survex.png" align="left">
 <a href="https://doi.org/10.1093/bioinformatics/btad723">survex: an R package for explaining machine learning survival models</a>
 <p> Mikołaj Spytek, Mateusz Krzyziński, Sophie Hanna Langbein, Hubert Baniecki, Marvin N Wright, Przemysław Biecek</p>
 <p><strong>Bioinformatics (2023)</strong></p>
@@ -52,7 +52,7 @@ This paper demonstrates the functionalities of the <a href="https://github.com/M
 #### SurvSHAP(t) {-}
 
 <div>
-<img src="images/paper_survshap.png">
+<img src="images/paper_survshap.png" align="left">
 <a href="https://doi.org/10.1016/j.knosys.2022.110234 ">SurvSHAP(t): Time-dependent explanations of machine learning survival models</a>
 <p>Mateusz Krzyziński, Mikołaj Spytek, Hubert Baniecki, Przemysław Biecek</p>
 <p><strong>Knowledge-Based Systems (2023)</strong></p>
@@ -62,7 +62,7 @@ In this paper, we introduce SurvSHAP(t), the first time-dependent explanation th
 #### IEMA {-}
 
 <div>
-<img src="images/paper_iema.png">
+<img src="images/paper_iema.png" align="left">
 <a href="https://doi.org/10.1007/s10618-023-00924-w ">The grammar of interactive explanatory model analysis</a>
 <p>Hubert Baniecki, Dariusz Parzych, Przemyslaw Biecek</p>
 <p><strong>Data Mining and Knowledge Discovery (2023)</strong></p>
@@ -72,7 +72,7 @@ This paper proposes how different Explanatory Model Analysis (EMA) methods compl
 #### Software: fairmodels {-}
 
 <div>
-<img src="images/mini_fairmodels.png">
+<img src="images/mini_fairmodels.png" align="left">
 <a href="http://doi.org/10.32614/RJ-2022-019">fairmodels: a Flexible Tool for Bias Detection, Visualization, and Mitigation in Binary Classification Models</a>
 <p>Jakub Wiśniewski, Przemyslaw Biecek</p>
 <p><strong>The R Journal (2022)</strong></p>
@@ -82,7 +82,7 @@ This article introduces an R package fairmodels that helps to validate fairness 
 #### Fooling PDP {-}
 
 <div>
-<img src="images/foolingpd.png">
+<img src="images/foolingpd.png" align="left">
 <a href="https://doi.org/10.1007/978-3-031-26409-2_8">Fooling Partial Dependence via Data Poisoning</a>
 <p>Hubert Baniecki, Wojciech Kretowicz, Przemyslaw Biecek</p>
 <p><strong>ECML PKDD (2022)</strong></p>
@@ -92,7 +92,7 @@ We showcase that PD can be manipulated in an adversarial manner, which is alarmi
 #### Fooling SHAP {-}
 
 <div>
-<img src="images/manipulatingshap.png">
+<img src="images/manipulatingshap.png" align="left">
 <a href="https://doi.org/10.1609/aaai.v36i11.21590">Manipulating SHAP via Adversarial Data Perturbations (Student Abstract)</a>
 <p>Hubert Baniecki, Przemyslaw Biecek</p>
 <p><strong>AAAI Conference on Artificial Intelligence (2022)</strong></p>
@@ -103,7 +103,7 @@ We introduce a model-agnostic algorithm for manipulating SHapley Additive exPlan
 #### Models in the Wild {-}
 
 <div>
-<img src="images/paper_wildnlp.png">
+<img src="images/paper_wildnlp.png" align="left">
 <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-36718-3_20">Models in the Wild: On Corruption Robustness of Neural NLP Systems</a>
 <p>Barbara Rychalska, Dominika Basaj, Alicja Gosiewska, Przemyslaw Biecek</p>
 <p><strong>International Conference on Neural Information Processing (2019)</strong></p>
@@ -113,7 +113,7 @@ In this paper we introduce WildNLP - a framework for testing model stability in 
 #### Software: auditor {-}
 
 <div>
-<img src="images/paper_auditor.png">
+<img src="images/paper_auditor.png" align="left">
 <a href="https://doi.org/10.32614/RJ-2019-036">auditor: an R Package for Model-Agnostic Visual Validation and Diagnostics</a>
 <p>Alicja Gosiewska, Przemyslaw Biecek</p>
 <p><strong>The R Journal (2019)</strong></p>
