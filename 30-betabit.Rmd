@@ -1,16 +1,8 @@
-# MI²Education {-}
+# MI²BetaBit {-}
 
-The demand for predictive modelling skills is growing at a furious rate. Part of our mission is to develop human capital so that predictive modelling is applied responsibly and safely.
+Beta Bit is a series of books about data analysis, data visualisation and machine learning using the adventures of two scientists - mathematician Beta and computer scientist Bit. Together they have interesting experiences analysing a wide variety of data. Because data analysis is one of the most interesting adventures!
 
-We take social responsibility seriously and as part of our activities we support the development of data analysis skills among pupils, students and senior professionals alike.
-
-
-## Beta Bit {-}
-
-<script>
-document.body.classList.add("two-columns")
-document.querySelector(".page-inner section > *:first-child").classList.add("two-columns-layout")
-</script>
+#### Chaos Game {-}
 
 <div>
 <img src="images/bb_chaos.png" align="left">
@@ -21,12 +13,16 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <p><a href="https://chaos.drwhy.ai/">Flipbook online [POL]</a></p>
 </div>
 
+#### Wykresy od kuchni {-}
+
 <div>
 <img src="images/bb_wykresy.png" align="left">
 <a href="https://github.com/BetaAndBit/Wykresy">Wykresy od kuchni</a>
 <p>PL: Jak tworzyć dobre wykresy? Dobre, czyli takie, które z przyjemnością się ogląda, z których można wyciągnąć wiele informacji, które są zrozumiałe dla szerokiego odbiorcy, a jednocześnie docenią je smakosze. Na bazie doświadczeń z prowadzenia tych zajęć powstały Wykresy od kuchni. To zbiór krótkich wykładów omawiających różne wątki przydatne w lepszym zrozumieniu tego, jak działa komunikacja z użyciem wykresów statystycznych. Na kolejnych stronach pojawi się wiele analogii do przyrządzania posiłków, ponieważ zarówno w kuchni, jak i w przygotowaniu wykresów statystycznych potrzebna jest praktyka, znajomość pewnych fundamentalnych prawideł, garść sprawdzonych przepisów i dużo zapału do eksperymentowania. Będąc tak uzbrojonym, każdy adept sztuki kulinarnej jest skazany na sukces.</p>
 <p><a href="https://betaandbit.github.io/Wykresy/">Flipbook online [POL]</a></p>
 </div>
+
+#### The Hitchhiker's Guide to Responsible Machine Learning {-}
 
 <div>
 <img src="images/bb_rml.png" align="left">
@@ -38,6 +34,8 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <p>Fundacja Naukowa SmarterPoland.pl. <i>2022</i></p>
 </div>
 
+#### W pogoni za nieskończonością. Szeregi {-}
+
 <div>
 <img src="images/bookSzeregi.png" align="left">
 <a href="https://github.com/BetaAndBit/Szeregi">W pogoni za nieskończonością. Szeregi</a>
@@ -47,6 +45,8 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <p>Przemysław Biecek, Łukasz Maciejewski, Aleksander Zawada</p>
 <p>Fundacja Naukowa SmarterPoland.pl. <i>2022</i></p>
 </div>
+
+#### Przewodnik po pakiecie R {-}
 
 <div>
 <img src="images/bookR.png" align="left">
@@ -58,6 +58,8 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <p>Wydawnictwo GiS. <i>2008-2021</i></p>
 </div>
 
+#### Analiza danych z programem R {-}
+
 <div>
 <img src="images/bookAnaliza.png" align="left">
 <a href="http://ksiegarnia.pwn.pl/produkt/104378/analiza-danych-z-programem-r.html">Analiza danych z programem R</a>
@@ -67,6 +69,8 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <p>Przemysław Biecek</p>
 <p>Wydawnictwo Naukowe PWN <i>2013-2018</i></p>
 </div>
+
+#### Eseje o sztuce wizualizacji danych {-}
 
 <div>
 <img src="images/bookEseje2.png" align="left">
@@ -78,6 +82,8 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <p>Wydawnictwo SmarterPoland <i>2008-2021</i></p>
 </div>
 
+#### Pogromcy Danych {-}
+
 <div>
 <img src="images/bookPogromcy.png" align="left">
 <a href="http://www.pogromcydanych.icm.edu.pl/">Pogromcy Danych</a>
@@ -87,6 +93,8 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <p>Przemysław Biecek</p>
 <p>ICM UW. <i>2015</i></p>
 </div>
+
+#### Wykresy unplugged {-}
 
 <div>
 <img src="images/bookWykresy.png" align="left">
@@ -98,6 +106,8 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <p>Fundacja Naukowa SmarterPoland.pl. <i>2018</i></p>
 </div>
 
+#### W pogoni za nieskończonością {-}
+
 <div>
 <img src="images/bookNieskonczonosc.png" align="left">
 <a href="https://www.wuw.pl/product-pol-8579-W-pogoni-za-nieskonczonoscia.html">W pogoni za nieskończonością</a>
@@ -107,6 +117,8 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <p>Przemysław Biecek, Łukasz Maciejewski, Tomasz Samojlik, Sebastian Szpakowski</p>
 <p>Fundacja Naukowa SmarterPoland.pl. <i>2018</i></p>
 </div>
+
+#### Jak długo żyją Muffinki? {-}
 
 <div>
 <img src="images/bookMufinki.png" align="left">
@@ -118,6 +130,8 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <p>Fundacja Naukowa SmarterPoland.pl.<i>2016</i></p>
 </div>
 
+#### Pieczara Pietraszki {-}
+
 <div>
 <img src="images/bookPieczara.png" align="left">
 <a href="https://www.empik.com/pieczara-pietraszki-chudzian-magdalena-biecek-przemyslaw,p1119203030,ksiazka-p">Pieczara Pietraszki</a>
@@ -128,6 +142,7 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <p>Fundacja Naukowa SmarterPoland.pl. <i>2015</i></p>
 </div>
 
+#### How to weight a dog with a ruler? {-}
 
 <div>
 <img src="images/bookAdventures.png" align="left">
@@ -149,6 +164,5 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <p>Przemysław Biecek, Klaudia Korniluk</p>
 <p>Fundacja Naukowa SmarterPoland.pl.<i>2016-2021</i></p>
 </div>
-
 
 
