@@ -1,54 +1,123 @@
 # MI²RedTeam  {.unnumbered #mi2redteam}
 
-**MI²<span style="color:red"><strong>Red</strong></span>Team** analyses machine and deep learning predictive models through the lens of AI explainability, fairness, security and human trust. We develop methods and tools for explanatory model analysis and apply them in practice.
+<img src="images/intro-redteam.png" style="width: 95%;">
 
-####  {-}
+**MI²<span style="color:red"><strong>Red</strong></span>Team** analyses machine and deep learning predictive models through the lens of AI explainability, fairness, security and human trust. We develop methods and tools for explanatory model analysis and apply them in practice.
 
 **MI²<span style="color:red"><strong>Red</strong></span>Team** is a group of researchers experienced in [XAI](https://doi.org/10.1007/978-3-031-04083-2_2) who perform a rigorous evaluation of AI solutions in order to improve their transparency and security. We apply state-of-the-art methods and introduce new ones to tailor our analysis to the specific predictive task. 
 
 > We openly collaborate on various topics related to explainable and interpretable machine learning. Feel free to [reach out to us](mailto:przemyslaw.biecek@gmail.com) with research ideas and development opportunities. **We help organizations to better understand the vulnerabilities of their AI systems, and take steps to mitigate them.**
 
-Our current *core* research topics of interest include:
 
-- [**ARES**] Robustness *of* explanations and explanations *for* model robustness
-- [**xSurvival**] Explanatory analysis of machine learning survival models
-- [**Large Model Analysis**] Explanatory analysis of large models, e.g. transformers
+#### Red-Teaming SAM {-}
 
-**Methods and methodologies** introduced by our team:
+<div>
+<img src="images/redteaming_sam.png">
+<a href="https://doi.org/10.48550/arXiv.2404.02067">Red-Teaming Segment Anything Model</a>
+<p> Krzysztof Jankowski, Bartlomiej Sobieski, Mateusz Kwiatkowski, Jakub Szulc, Michal Janik, Hubert Baniecki, Przemyslaw Biecek</p>
+<p><strong>CVPR Workshops (2024)</strong></p>
+The Segment Anything Model is one of the first and most well-known foundation models for computer vision segmentation tasks. This work presents a multi-faceted red-teaming analysis of SAM. We analyze the impact of style transfer on segmentation masks. We assess whether the model can be used for attacks on privacy, such as recognizing celebrities' faces. Finally, we check how robust the model is to adversarial attacks on segmentation masks under text prompts.
+</div>
 
-- [Red teaming segment anything model (SAM)](https://doi.org/10.48550/arXiv.2404.02067)
-- [Red teaming models for hyperspectral image analysis](https://doi.org/10.48550/arXiv.2403.08017)
-- [Evaluating explanations of vision transformers](https://arxiv.org/abs/2304.06133)
-- [Interactive EMA](https://doi.org/10.1007/s10618-023-00924-w) towards human-model interaction in explainable machine learning for tabular data
-- [SurvSHAP(t)](https://doi.org/10.1016/j.knosys.2022.110234) for time-dependent analysis of machine learning survival models
-- [LIMEcraft](https://doi.org/10.1007/s10994-022-06204-w) for human-guided visual explanations of deep neural networks 
-- [Fooling PD](https://doi.org/10.1007/978-3-031-26409-2_8) & [Manipulating SHAP](https://doi.org/10.1609/aaai.v36i11.21590) for stress-testing widely-applied explanation methods
-- [Checklist](https://doi.org/10.1016/j.patcog.2021.108035) towards responsible deep learning on medical images
-- [SAFE](https://doi.org/10.1016/j.dss.2021.113556) for lifting interpretability-performance trade-off via automated feature engineering
-- [WildNLP](https://doi.org/10.1007/978-3-030-36718-3_20) for stress-testing deep learning models in NLP
-- [Explanatory Model Analysis](https://ema.drwhy.ai) towards comprehensive examination of predictive models
+#### Red-Teaming HSI {-}
 
-**Tools** developed by our team:
+<div>
+<img src="images/redteaming_hsi.png">
+<a href="https://doi.org/10.48550/arXiv.2403.08017">Red Teaming Models for Hyperspectral Image Analysis Using Explainable AI</a>
+<p> Vladimir Zaigrajew, Hubert Baniecki, Lukasz Tulczyjew, Agata M. Wijata, Jakub Nalepa, Nicolas Longépé, Przemyslaw Biecek</p>
+<p><strong>ICLR Workshops (2024)</strong></p>
+Remote sensing applications require machine learning models that are reliable and robust, highlighting the importance of red teaming for uncovering flaws and biases. We introduce a novel red teaming approach for hyperspectral image analysis, specifically for soil parameter estimation in the Hyperview challenge. Utilizing SHAP for red teaming, we enhanced the top-performing model based on our findings. Additionally, we introduced a new visualization technique to improve model understanding in the hyperspectral domain.
+</div>
 
-- [DALEX](https://dalex.drwhy.ai), [breakDown](https://doi.org/10.32614/RJ-2018-072), [auditor](https://doi.org/10.32614/RJ-2019-036) & [modelStudio](https://github.com/ModelOriented/modelStudio) for explainable machine learning in R
-- [dalex](https://www.jmlr.org/papers/v22/20-1473.html) for explainable and fair machine learning in Python
-- [survex](https://github.com/modeloriented/survex) dedicated to explaining machine learning survival models
-- [fairmodels](https://fairmodels.drwhy.ai) for fairness analysis of machine learning classification models
+#### Adversarial attacks and defenses for XAI {-}
 
-**Applications** supported by our team:
+<div>
+<img src="images/advxai.png">
+<a href="https://doi.org/10.1016/j.inffus.2024.102303">Adversarial attacks and defenses in explainable artificial intelligence: A survey</a>
+<p> Hubert Baniecki, Przemysław Biecek</p>
+<p><strong>Information Fusion (2024)</strong></p>
+Explanations of machine learning models can be manipulated. We introduce a unified notation and taxonomy of adversarial attacks on explanations. Adversarial examples, data poisoning, and backdoor attacks are key safety issues in XAI. Defense methods like model regularization improve the robustness of explanations. We outline the emerging research directions in adversarial XAI.
+</div>
 
-- In **medicine**, we analyzed hundreds of models predicting among others: [survival in uveal melanoma eye cancer](https://doi.org/10.1016/j.ejca.2022.07.031), [survival in sepsis](https://doi.org/10.3390/cells11152433), [type of lung cancer](https://doi.org/10.3390/cancers14020439), [lung cancer risk in screening](https://doi.org/10.3390/app12041926), [lung cancer mortality](https://doi.org/10.1007/978-3-030-37446-4_13), [COVID-19 mortality](https://doi.org/10.1609/aaai.v35i18.17874), [hospital length of stay](https://arxiv.org/abs/2303.09817), [progression of Alzheimer’s disease](https://doi.org/10.1186/s40708-022-00165-5).
-- In **credit scoring**, we analyzed the [transparency, auditability, and explainability of machine learning models](https://doi.org/10.1080/01605682.2021.1922098).
-- In **football analytics**, we analyzed [expected goal models for performance analysis](https://ieeexplore.ieee.org/document/10032440).
-- In **earth observation**, we analyzed models for [soil parameters' estimation](https://doi.org/10.48550/arXiv.2403.08017).
+#### Software: survex {-}
 
-*This initiative is generously supported by the following institutions.*
+<div>
+<img src="images/survex.png">
+<a href="https://doi.org/10.1093/bioinformatics/btad723">survex: an R package for explaining machine learning survival models</a>
+<p> Mikołaj Spytek, Mateusz Krzyziński, Sophie Hanna Langbein, Hubert Baniecki, Marvin N Wright, Przemysław Biecek</p>
+<p><strong>Bioinformatics (2023)</strong></p>
+This paper demonstrates the functionalities of the <a href="https://github.com/ModelOriented/survex">survex package</a>, which provides a comprehensive set of tools for explaining machine learning survival models. The capabilities of the proposed software encompass understanding and diagnosing survival models, which can lead to their improvement. By revealing insights into the decision-making process, such as variable effects and importances, survex enables the assessment of model reliability and the detection of biases. Thus, promoting transparency and responsibility in sensitive areas.
+</div>
 
-<p style="float:left;width:56%;">
-    <img src="images/logo-ncn.png" style="width: 95%;"> 
-    <img src="images/logo-ncbir.png" style="width: 95%;">
-    <img src="images/logo-wut.png" style="width: 95%;">
-</p>
-<p style="float:left;width:27%;">
-    <img src="images/logo-idub.png" style="width: 95%;">
-</p>
+#### SurvSHAP(t) {-}
+
+<div>
+<img src="images/paper_survshap.png">
+<a href="https://doi.org/10.1016/j.knosys.2022.110234 ">SurvSHAP(t): Time-dependent explanations of machine learning survival models</a>
+<p>Mateusz Krzyziński, Mikołaj Spytek, Hubert Baniecki, Przemysław Biecek</p>
+<p><strong>Knowledge-Based Systems (2023)</strong></p>
+In this paper, we introduce SurvSHAP(t), the first time-dependent explanation that allows for interpreting survival black-box models. The proposed methods aim to enhance precision diagnostics and support domain experts in making decisions. SurvSHAP(t) is model-agnostic and can be applied to all models with functional output. We provide an accessible implementation of time-dependent explanations in Python at <a href="https://github.com/MI2DataLab/survshap">this URL</a>.
+</div>
+
+#### IEMA {-}
+
+<div>
+<img src="images/paper_iema.png">
+<a href="https://doi.org/10.1007/s10618-023-00924-w ">The grammar of interactive explanatory model analysis</a>
+<p>Hubert Baniecki, Dariusz Parzych, Przemyslaw Biecek</p>
+<p><strong>Data Mining and Knowledge Discovery (2023)</strong></p>
+This paper proposes how different Explanatory Model Analysis (EMA) methods complement each other and discusses why it is essential to juxtapose them. The introduced process of Interactive EMA (IEMA) derives from the algorithmic side of explainable machine learning and aims to embrace ideas developed in cognitive sciences. We formalize the grammar of IEMA to describe human-model interaction. We conduct a user study to evaluate the usefulness of IEMA, which indicates that an interactive sequential analysis of a model may increase the accuracy and confidence of human decision making.
+</div>
+
+#### Software: fairmodels {-}
+
+<div>
+<img src="images/mini_fairmodels.png">
+<a href="http://doi.org/10.32614/RJ-2022-019">fairmodels: a Flexible Tool for Bias Detection, Visualization, and Mitigation in Binary Classification Models</a>
+<p>Jakub Wiśniewski, Przemyslaw Biecek</p>
+<p><strong>The R Journal (2022)</strong></p>
+This article introduces an R package fairmodels that helps to validate fairness and eliminate bias in binary classification models quickly and flexibly. It offers a model-agnostic approach to bias detection, visualization, and mitigation. The implemented functions and fairness metrics enable model fairness validation from different perspectives. In addition, the package includes a series of methods for bias mitigation that aim to diminish the discrimination in the model. The package is designed to examine a single model and facilitate comparisons between multiple models.
+</div>
+
+#### Fooling PDP {-}
+
+<div>
+<img src="images/foolingpd.png">
+<a href="https://doi.org/10.1007/978-3-031-26409-2_8">Fooling Partial Dependence via Data Poisoning</a>
+<p>Hubert Baniecki, Wojciech Kretowicz, Przemyslaw Biecek</p>
+<p><strong>ECML PKDD (2022)</strong></p>
+We showcase that PD can be manipulated in an adversarial manner, which is alarming, especially in financial or medical applications where auditability became a must-have trait supporting black-box machine learning. The fooling is performed via poisoning the data to bend and shift explanations in the desired direction using genetic and gradient algorithms.
+</div>
+
+#### Fooling SHAP {-}
+
+<div>
+<img src="images/manipulatingshap.png">
+<a href="https://doi.org/10.1609/aaai.v36i11.21590">Manipulating SHAP via Adversarial Data Perturbations (Student Abstract)</a>
+<p>Hubert Baniecki, Przemyslaw Biecek</p>
+<p><strong>AAAI Conference on Artificial Intelligence (2022)</strong></p>
+We introduce a model-agnostic algorithm for manipulating SHapley Additive exPlanations (SHAP) with perturbation of tabular data. It is evaluated on predictive tasks from healthcare and financial domains to illustrate how crucial is the context of data distribution in interpreting machine learning models. Our method supports checking the stability of the explanations used by various stakeholders apparent in the domain of responsible AI; moreover, the result highlights the explanations' vulnerability that can be exploited by an adversary.
+</div>
+
+
+#### Models in the Wild {-}
+
+<div>
+<img src="images/paper_wildnlp.png">
+<a href="https://link.springer.com/chapter/10.1007%2F978-3-030-36718-3_20">Models in the Wild: On Corruption Robustness of Neural NLP Systems</a>
+<p>Barbara Rychalska, Dominika Basaj, Alicja Gosiewska, Przemyslaw Biecek</p>
+<p><strong>International Conference on Neural Information Processing (2019)</strong></p>
+In this paper we introduce WildNLP - a framework for testing model stability in a natural setting where text corruptions such as keyboard errors or misspelling occur. We compare robustness of deep learning models from 4 popular NLP tasks: Q&A, NLI, NER and Sentiment Analysis by testing their performance on aspects introduced in the framework. In particular, we focus on a comparison between recent state-of-the-art text representations and non-contextualized word embeddings. In order to improve robustness, we perform adversarial training on selected aspects and check its transferability to the improvement of models with various corruption types. We find that the high performance of models does not ensure sufficient robustness, although modern embedding techniques help to improve it.
+</div>
+
+#### Software: auditor {-}
+
+<div>
+<img src="images/paper_auditor.png">
+<a href="https://doi.org/10.32614/RJ-2019-036">auditor: an R Package for Model-Agnostic Visual Validation and Diagnostics</a>
+<p>Alicja Gosiewska, Przemyslaw Biecek</p>
+<p><strong>The R Journal (2019)</strong></p>
+This paper describes methodology and tools for model-agnostic auditing. It provides functinos for assessing and comparing the goodness of fit and performance of models. In addition, the package may be used for analysis of the similarity of residuals and for identification of outliers and influential observations. The examination is carried out by diagnostic scores and visual verification. The code presented in this paper are implemented in the auditor package. Its flexible and consistent grammar facilitates the validation models of a large class of models.
+</div>
+
+
