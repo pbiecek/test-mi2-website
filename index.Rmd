@@ -1370,9 +1370,32 @@ Here is the skeleton for our approach: (1) Use ensembles in order to building a 
 
 **Work on this project is financially supported from the OPUS grant 2016/21/B/ST6/02176 funded by Polish National Science Centre (NCN).**
 
+## Thesis proposals {-}
+
+The MI2.AI team is the place where you can conduct research leading to your engineering, master's or PhD thesis. As a general rule (although there are exceptions), engineering theses focus on the development of software, master's theses on the development of a data analysis method, PhD theses on the solution of a larger scientific problem. 
+
+We are currently working in four areas
+
+### Red Teaming AI models
+
+
+### AI against Cancer
+
+- Analysis of the distribution of tumours in the Polish population
+
+### AI for Space
+
+- 
+
+### AI for Education
+
+
+
 
 
 ## Contact {-}
+
+Feel free to contact with Przemyslaw Biecek through [mini-pw email](https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_biecek_przemyslaw/) or [mim-uw email](https://www.mimuw.edu.pl/pl/pracownicy/143707/).
 
 Our rooms: 
 
