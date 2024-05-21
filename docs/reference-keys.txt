@@ -1,4 +1,0 @@
-red-teaming-ai-models
-ai-against-cancer
-ai-for-space
-ai-for-education
