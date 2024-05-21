@@ -1376,18 +1376,18 @@ The MI2.AI team is the place where you can conduct research leading to your engi
 
 We are currently working in four areas
 
-### Red Teaming AI models
+### Red Teaming AI models {-}
 
 
-### AI against Cancer
+### XAI against Cancer {-}
 
 - Analysis of the distribution of tumours in the Polish population
 
-### AI for Space
+### XAI for Space {-}
 
 - 
 
-### AI for Education
+### XAI for Education {-}
 
 
 
