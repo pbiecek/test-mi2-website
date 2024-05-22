@@ -1374,10 +1374,11 @@ Here is the skeleton for our approach: (1) Use ensembles in order to building a 
 
 The MI2.AI team is the place where you can conduct research leading to your engineering, master's or PhD thesis. As a general rule (although there are exceptions), engineering theses focus on the development of software, master's theses on the development of a data analysis method, PhD theses on the solution of a larger scientific problem. 
 
-We are currently working in four areas
+We are currently working in four areas. Below are general topics on which you can build an interesting thesis
 
 ### Red Teaming AI models {-}
 
+- TODO
 
 ### XAI against Cancer {-}
 
@@ -1385,10 +1386,11 @@ We are currently working in four areas
 
 ### XAI for Space {-}
 
-- 
+- TODO
 
 ### XAI for Education {-}
 
+- TODO
 
 
 
