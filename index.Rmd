@@ -1345,17 +1345,17 @@ Here is the skeleton for our approach: (1) Use ensembles in order to building a 
 
 ## Thesis proposals {-}
 
-The MI2.AI team is the place where you can conduct research leading to your engineering, master's or PhD thesis. As a general rule (although there are exceptions), engineering theses focus on the development of software, master's theses on the development of a data analysis method, PhD theses on the solution of a larger scientific problem. 
+The MI2.AI team is the place where you can conduct research leading to your bachelor's, master's or PhD thesis. As a general rule (although there are exceptions), engineering theses focus on the development of software, master's theses on the development of a data analysis method, PhD theses on the solution of a larger scientific problem. 
 
 We are currently working red teaming and explainable AI. Below are general topics on which you can build an interesting thesis.
 
 ### Red Teaming AI models {-}
 
-1. *Explaining computer vision models with diffusion models*: generative models, and diffusion models in particular, offer impressive capabilities for conditional image manipulation, conditional sampling and allow to incorporate external (not seen during training) objectives into the generative process. One of the ways to advance the state of current methodologies for explaining visual classifiers would be to use diffusion models as a tool to find or synthesize explanations. Many projects with varying levels of detail and advancement are available. For an example paper from this research field, see [this work](https://arxiv.org/abs/2404.12488) developed in our lab. Feel free to contact us if this topic is of interest to you.
+- *Explaining computer vision models with diffusion models*: generative models, and diffusion models in particular, offer impressive capabilities for conditional image manipulation, conditional sampling and allow to incorporate external (not seen during training) objectives into the generative process. One of the ways to advance the state of current methodologies for explaining visual classifiers would be to use diffusion models as a tool to find or synthesize explanations. Many projects with varying levels of detail and advancement are available. For an example paper from this research field, see [this work](https://arxiv.org/abs/2404.12488) developed in our lab. Feel free to contact us if this topic is of interest to you.
 
 ### Explainable machine learning {-}
 
-1. **BSc thesis:** *Robustness of global machine learning explanations when features are dependent.* **Description:** This project aims to directly follow [our recent work](https://arxiv.org/abs/2406.09069) with theoretical and experimental analysis on how **feature dependence**, i.e. correlation and interactions, impacts the robustness of **global machine learning explanations**, i.e. feature importance and effects, to model and data perturbation. For context, refer to these three papers: [AIj 2021](https://doi.org/10.1016/j.artint.2021.103502), [NeurIPS 2023](https://arxiv.org/abs/2306.07462), [ECML PKDD 2024](https://arxiv.org/abs/2406.09069). **Effort:** 1-2 people with interest in statistical learning for tabular data. **Supervision:** Hubert Baniecki and Przemysław Biecek.
+- **BSc thesis:** *Robustness of global machine learning explanations when features are dependent.* **Description:** This project aims to directly follow [our recent work](https://arxiv.org/abs/2406.09069) with theoretical and experimental analysis on how **feature dependence**, i.e. correlation and interactions, impacts the robustness of **global machine learning explanations**, i.e. feature importance and effects, to model and data perturbation. For context, refer to these three papers: [AIj 2021](https://doi.org/10.1016/j.artint.2021.103502), [NeurIPS 2023](https://arxiv.org/abs/2306.07462), [ECML PKDD 2024](https://arxiv.org/abs/2406.09069). **Effort:** 1-2 people with interest in statistical learning for tabular data. **Supervision:** Hubert Baniecki (contact me at h.baniecki@uw.edu.pl) & Przemysław Biecek.
 
 
 ### XAI against Cancer {-}
