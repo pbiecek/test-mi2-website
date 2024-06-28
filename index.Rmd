@@ -1360,16 +1360,11 @@ We are currently working red teaming AI models and explainable machine learning.
 
 ### XAI against Cancer {-}
 
-- Analysis of the distribution of tumours in the Polish population
+- Analysis of the distribution of segmented tumours in the Polish population
 
 ### XAI for Space {-}
 
-- TODO
-
-<!-- ### XAI for Education {-}
-
-- TODO -->
-
+- Check out https://xai4space.github.io
 
 
 
