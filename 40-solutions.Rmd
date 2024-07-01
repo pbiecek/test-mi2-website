@@ -1,4 +1,4 @@
-# MI²Solutions  {-}
+# MI²Solutions {.unnumbered #mi2solutions}
 
 Hire a team of experienced researchers. **The blue team** will help you develop good predictive models, create a responsible solution tailored to your needs. **The red team** will help you find and analyse any weaknesses in your predictive models. It will help you confront them with domain knowledge and make sure they are resilient to future changes in the data.
 

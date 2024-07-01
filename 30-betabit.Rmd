@@ -1,4 +1,4 @@
-# MI²BetaBit {-}
+# MI²BetaBit {.unnumbered #mi2betabit}
 
 Beta Bit is a series of books about data analysis, data visualisation and machine learning using the adventures of two scientists - mathematician Beta and computer scientist Bit. Together they have interesting experiences analysing a wide variety of data. Because data analysis is one of the most interesting adventures!
 

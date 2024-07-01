@@ -19,7 +19,8 @@ options(
 output <- knitr::opts_knit$get("rmarkdown.pandoc.to")
 is.html = !is.null(output) && output == "html"
 ```
-# MI².AI {-}
+
+# MI².AI {.unnumbered #mi2ai}
 <script>
 document.body.classList.add("index-page")
 </script>
