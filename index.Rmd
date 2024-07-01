@@ -1183,6 +1183,19 @@ Considering that, the main goals of the DeMeTeR project are:
 **Work on this project is financially supported by the Polish National Science Centre PRELUDIUM BIS grant 2023/50/O/ST6/00301.**
 
 
+### PINEAPPLE: 2024-2025 {-}
+
+#### PINEAPPLE: Explainable, Robust and Secure AI for demistyfying Space Operations {-}
+
+![](images/project-pineberry.png)
+
+
+In the PINEBERRY project (ExPlaINablE, RoBust And SEcuRe AI FoR DemYstifying Space Mission Operations), we will address the important research gap of lack of “trust” into (deep) machine learning algorithms for space mission operations, through tackling real-life downstream for the A2I roadmap using deep and classic machine learning algorithms empowered by new security and explainable AI (XAI) techniques. We believe that PINEBERRY will be an important step toward not only “uncovering the magic” behind deep learning algorithms (hence building trust in them in downstream tasks), but also in showing that XAI techniques can be effectively utilized to improve such data-driven algorithms (both classic and deep machine learning-powered), ultimately leading to better algorithms. Finally, we will put special effort into (i) unbiasing the validation of existing and emerging algorithms through ensuring their full reproducibility (both at the algorithm and at the data level), and (ii) ensuring security of algorithms on different levels of data, models, and system.
+
+To this end we develop a catalogue for issues relevant to Security and Explainability that will guide validation of ML/AI models used in SO. This project is conducted in collaboration with KP Labs company.
+
+**Work on this project is financially supported by European Space Agency grant ESA  4000144194/23/D/BL.**
+
 ### PvSTATEM 2023-2027 {-}
 
 #### PvSTATEM: Serological testing and treatment for P. Vivax: from a cluster-randomised trial in Ethiopia and Madagascar to a mobile-technology supported intervention {-}
