@@ -7,6 +7,15 @@ How the xLungs project is developed? (polish only)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lqQxIpKFxWU?si=kOIrgZcdxJw7Nckh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+<div>
+<img src="images/paper_swinsmt.png" align="left">
+<a href="https://arxiv.org/abs/2407.07514">Swin SMT: Global Sequential Modeling in 3D Medical Image Segmentation</a>
+<p>Szymon Płotka, Maciej Chrabaszcz, Przemyslaw Biecek</p>
+<p><strong>MICCAI (2024)</strong></p>
+We introduce Swin Soft Mixture Transformer (Swin SMT), a novel architecture based on Swin UNETR, which incorporates a Soft Mixture-of-Experts (Soft MoE) to effectively handle complex and diverse long-range dependencies. The use of Soft MoE allows for scaling up model parameters maintaining a balance between computational complexity and segmentation performance in both training and inference modes. Comprehensive experimental results demonstrate that Swin SMT outperforms several state-of-the-art methods in 3D anatomical structure segmentation.
+</div>
+
+
 #### 2023 {-}
 
 <div>
@@ -47,9 +56,6 @@ Although the biological function of lncRNAs has not been fully elucidated, we kn
 </div>
 
 
-
-
-
 <div>
 <img src="images/paper-applied.png" align="left">
 <a href="https://www.mdpi.com/2072-6694/15/14/3742">Applied Molecular-Based Quality Control of Biobanked Samples for Multi-Omics Approach</a>
@@ -85,7 +91,6 @@ To what extent can the patient's length of stay in a hospital be predicted using
 </div>
 
 
-
 #### 2022 {-}
 
 
@@ -96,7 +101,6 @@ To what extent can the patient's length of stay in a hospital be predicted using
 <p><strong>Cancers (2022)</strong></p>
 Patients with amelanotic uveal melanomas (those without pigment) lived longer and the eventual spread of the neoplastic process occurred later than in patients with heavily pigmented tumours. In heavily pigmented uveal melanomas, we found features on histopathological examination that were associated with an unfavourable prognosis. In the two separate groups of uveal melanomas with different degrees of pigmentation, we observed that amelanotic tumours with a lower clinical stage had the best prognosis.
 </div>
-
 
 
 #### 2021 {-}
