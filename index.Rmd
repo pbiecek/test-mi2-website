@@ -696,13 +696,12 @@ LinkedIn: [mateusz-wójcik](https://www.linkedin.com/in/mateusz-w%C3%B3jcik-859a
 
 </div>
 
-<!--
 
 ## Open Positions {-}
 
 <img src="images/positions_mi2.png" style="width: 100%;">
 
-We have an open call for [HOMER](https://www.mi2.ai/research-grants.html#homer-2020-2025) and [xLungs](https://www.mi2.ai/research-grants.html#x-lungs-2021-2024) projects for following positions. If you are interested in any of them please send your CV and Motivation Letter to przemyslaw.biecek at pw.edu.pl. We reserve the right to contact only selected candidates.
+We have an open call for  [xLungs](https://www.mi2.ai/research-grants.html#x-lungs-2021-2024) project for following positions. If you are interested in any of them please send your CV and Motivation Letter to przemyslaw.biecek at pw.edu.pl. We reserve the right to contact only selected candidates.
 
 ### MI2 policy on benefits and obligations {-}
 
@@ -720,17 +719,36 @@ We are looking for
 
 We offer:
 
-- the opportunity to learn from experienced and motivated researchers at different career levels as well as the opportunity to work with a rich network of international and interdisciplinary collaborators (for example Harvard Medical University, Vienna University, LMU, NTU, KDD Lab, Bari University and many others).
-- a possibility for a tenure-track position after the completion of the postdoc. 
+- the opportunity to learn from experienced and motivated researchers at different career levels as well as the opportunity to work with a rich network of international and interdisciplinary collaborators (for example Harvard Medical School, Vienna University, LMU, NTU, KDD Lab, Bari University and many others).
+- an option for a tenure-track position after the completion of the postdoc. 
 - possibility to present research results at international conferences.
 - access to our supercomputers, among them Eden with 32x A100 cards and 1.5TB of storage, a perfect place for training large DNN models.
 
 
 **Salary**
 
-Salary depend on experience and type of project (applied projects tend to have higher salaries than typical research projects). 
+Salary depend on experience and type of project (some applied projects tend to have higher salaries than typical research projects). 
 
-Average rates range from 50-60 PLN/hour (equivalent to 8-9.5k FTE) for a student with experience, through to 80-85 PLN/hour (equivalent to 12-13k FTE) for an experienced PhD student. The base salary for a post-doc (no obligatory teaching duties) is 120-140k gross per year (this is a base salary, extras depend on activity).
+Average rates range from 50-60 PLN/hour (equivalent to 8-9.5k FTE) for a motivated student with confirmed experience, through to 80-85 PLN/hour (equivalent to 12-13k FTE) for an experienced PhD student. The base salary for a post-doc (no obligatory teaching duties) is 120-140k gross per year (this is a base salary, extras depend on activity).
+
+
+### Research Software Engineer {-}
+
+In addition to research positions, we also offer positions for skilled programmers interested in research.
+
+**Required:**
+
+* Background in Computer Science, Mathematics, Statistics or similar. 
+* Experience in ML/AI models, the expaerience in Computer Vision or NLP will be a plus
+
+**Scope of work:**
+
+* Developing machine learning models for medical images (CT, MRI) or medical tabular data
+* Developing explanations for ML models for medical or tabular data
+* Prototyping solutions for end-users
+
+<!--
+
 
 ### Low commitment projects (1/5 FTE) in 2023 {-}
 
@@ -755,24 +773,8 @@ In addition to the research tasks listed above, responsibilities include mentori
 [From FENS](https://fens.org.pl/en/job-offers/):
 Warsaw is the capital of Poland, so in principle it is one of the most expensive cities in the country but living in Warsaw is still much cheaper than in the majority of European cities. In general, a single person in Warsaw is able to cover all necessary expenses (flat, media, transport, food) with ca. 5000-5500 PLN per month. A typical cost of renting a 2-room flat (30-40 square meters) varies between 2000-3000 PLN, depending on the part of the city. Electricity and media (TV, Internet) are usually not included in the rent and have to be paid separately. The cost of the lunch in the vicinity of the main campus of WUT is ca. 25-40 PLN, while a monthly ticket for public transport is 110 or 180 PLN depending on the area of validity. Public health insurance is included in the post (this includes also admission to hospitals), however the medicines are paid separately.
 
-
-### Research Software Engineer {-}
-
-In addition to research positions, we also offer positions for skilled programmers.
-
-**Required:**
-
-* Background in Computer Science, Mathematics, Statistics or similar. 
-* Experience in Computer Vision or NLP models
-
-**Scope of work:**
-
-* Training of machine learning models for tabular and image data
-* Interpretable solutions for tabular and image data
-* Responsible ML solutions for the healthcare domain
-
-
-<!--
+  
+  
   
 I am looking for a post-doc to join the MI2.AI team for one or two years within [HOMER](https://www.mi2.ai/research-grants.html#homer-2020-2025) project.
 The ideal fit is someone with (experience in Medical Image Analysis with deep learning models) OR (someone with experience in AutoML for tabular data).
