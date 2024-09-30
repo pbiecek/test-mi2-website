@@ -847,6 +847,14 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 </script>
 
 
+<div>
+<img src="images/paper_agg2exp.png">
+<a href="https://doi.org/10.48550/arXiv.2407.16653">Aggregated Attributions for Explanatory Analysis of 3D Segmentation Models</a>
+<p>Maciej Chrabaszcz, Hubert Baniecki, Piotr Komorowski, Szymon Płotka, Przemysław Biecek</p>
+<p><strong>WACV (2025)</strong></p>
+We introduce Agg^2Exp, a methodology for aggregating fine-grained voxel attributions of the segmentation model's predictions. Unlike classical explanation methods that primarily focus on the local feature attribution, Agg^2Exp enables a more comprehensive global view on the importance of predicted segments in 3D images. As a concrete use-case, we apply Agg^2Exp to discover knowledge acquired by the Swin UNEt TRansformer model trained on the TotalSegmentator v2 dataset for segmenting anatomical structures in computed tomography medical images.
+</div>
+
 
 <div>
 <img src="images/paper_ramai.png">
