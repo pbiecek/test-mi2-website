@@ -90,6 +90,7 @@ document.body.classList.add("two-columns")
 * [Piotr Wilczyński](the-team.html#piotr-wilczyński), BSc student
 * [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
 * [Vladimir Zaigrajew](the-team.html#vladimir-zaigrajew), PhD student
+* [Łukasz Jaremek](the-team.html#lukasz-jaremek), MSc student
 
 
 #### Collaborators {-}
@@ -580,6 +581,16 @@ MSc student in Data Science at Warsaw University of Technology. Interested prima
 GitHub: [FilipKolodziejczyk](https://github.com/FilipKolodziejczyk)
 
 LinkedIn: [filip-kołodziejczyk-00](https://www.linkedin.com/in/filip-kołodziejczyk-00/)
+
+### Łukasz Jaremek {-}
+
+<img src="images/lukasz_jaremek.png">
+
+MSc student in Data Science at Warsaw University of Technology, with a focus on computer vision. Currently researching diffusion models and working as big data cloud developer with AI.
+
+GitHub: [LJaremek](https://github.com/LJaremek)
+
+LinkedIn: [LJaremek](https://www.linkedin.com/in/LJaremek/)
 
 
 <!-- 
