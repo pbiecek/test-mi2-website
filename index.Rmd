@@ -90,6 +90,7 @@ document.body.classList.add("two-columns")
 * [Piotr Wilczyński](the-team.html#piotr-wilczyński), BSc student
 * [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
 * [Vladimir Zaigrajew](the-team.html#vladimir-zaigrajew), PhD student
+* [Dawid Płudowski](the-team.html#dawid-płudowski), MSc student
 
 
 #### Collaborators {-}
@@ -581,6 +582,16 @@ GitHub: [FilipKolodziejczyk](https://github.com/FilipKolodziejczyk)
 
 LinkedIn: [filip-kołodziejczyk-00](https://www.linkedin.com/in/filip-kołodziejczyk-00/)
 
+
+### Dawid Płudowski {-}
+
+<img src="images/dawid_pludowski.png">
+
+MSc student in Data Science at Warsaw University of Technology. Interested in AutoML, explainable artificial intelligence and anomaly detection on time series. Currently working on PINEBERRY project for space operations.
+
+GitHub: [DawidPludowski](https://github.com/DawidPludowski)
+
+LinkedIn: [dawid-płudowski](https://www.linkedin.com/in/dawid-płudowski-2a2303256/)
 
 <!-- 
 ### Hanna Zdulska {-}
