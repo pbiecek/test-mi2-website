@@ -90,7 +90,7 @@ document.body.classList.add("two-columns")
 * [Piotr Wilczyński](the-team.html#piotr-wilczyński), BSc student
 * [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
 * [Vladimir Zaigrajew](the-team.html#vladimir-zaigrajew), PhD student
-* [Łukasz Jaremek](the-team.html#lukasz-jaremek), MSc student
+* [Łukasz Jaremek](the-team.html#łukasz-jaremek), MSc student
 
 
 #### Collaborators {-}
