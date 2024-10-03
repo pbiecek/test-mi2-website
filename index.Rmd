@@ -584,7 +584,7 @@ LinkedIn: [filip-kołodziejczyk-00](https://www.linkedin.com/in/filip-kołodziej
 
 ### Agata Kaczmarek {-}
 
-<img src="images/agata_kaczmarek.png">
+<img src="images/agata_kaczmarek.jpg">
 
 MSc student in Data Science at Warsaw University of Technology. Interested in explainable artificial intelligence, computer vision and NLP. Currently working on PINEBERRY project for space operations.
 
