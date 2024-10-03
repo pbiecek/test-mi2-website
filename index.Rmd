@@ -75,7 +75,6 @@ document.body.classList.add("two-columns")
 * [Przemysław Biecek](the-team.html#przemysław-biecek), PhD, DSc (Team Leader)
 * [Hubert Baniecki](the-team.html#hubert-baniecki), PhD student
 * [Mustafa Cavus](the-team.html#mustafa-cavus), PhD
-* [Maciej Chrabąszcz](the-team.html#maciej-chrabąszcz), PhD student
 * [Weronika Hryniewska-Guzik](the-team.html#weronika-hryniewska-guzik), PhD student
 * [Agata Kaczmarek](the-team.html#agata-kaczmarek), MSc student
 * [Filip Kołodziejczyk](the-team.html#filip-kołodziejczyk), MSc student
@@ -85,7 +84,6 @@ document.body.classList.add("two-columns")
 * [Wiktoria Mieleszczenko-Kowszewicz](the-team.html#wiktoria-mieleszczenko-kowszewicz), PhD
 * [Nuno Sepúlveda](https://www.immune-stats.net), PhD
 * [Bartek Sobieski](the-team.html#bartek-sobieski), MSc student
-* [Mikołaj Spytek](the-team.html#mikołaj-spytek), MSc student
 * [Jakub Świstak](the-team.html#jakub-swistak), MSc student
 * [Paulina Tomaszewska](the-team.html#paulina-tomaszewska), PhD student
 * [Piotr Wilczyński](the-team.html#piotr-wilczyński), BSc student
@@ -113,6 +111,7 @@ document.body.classList.add("two-columns")
 * [Julian Sienkiewicz](the-team.html#julian-sienkiewicz), PhD
 * [Tomasz Stanisławek](the-team.html#tomasz-stanisławek), PhD
 * Adrian Stańdo, MSc student
+* [Mikołaj Spytek](the-team.html#mikołaj-spytek), MSc student
 * Patryk Szatkowski, PhD student, MD
 * [Emilia Wiśnios](the-team.html#emilia-wiśnios), MSc student
 * [Jakub Wiśniewski](the-team.html#jakub-wiśniewski), MSc student
@@ -124,6 +123,7 @@ document.body.classList.add("two-columns")
 #### Alumni {-}
 
 * Piotr Czarnecki, MSc
+* [Maciej Chrabąszcz](the-team.html#maciej-chrabąszcz), PhD student
 * Alicja Gosiewska, MSc
 * Adrianna Grudzień, BSc
 * [Mateusz Grzyb](the-team.html#mateusz-grzyb), MSc student
