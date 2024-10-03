@@ -77,6 +77,7 @@ document.body.classList.add("two-columns")
 * [Mustafa Cavus](the-team.html#mustafa-cavus), PhD
 * [Maciej Chrabąszcz](the-team.html#maciej-chrabąszcz), PhD student
 * [Weronika Hryniewska-Guzik](the-team.html#weronika-hryniewska-guzik), PhD student
+* [Agata Kaczmarek](the-team.html#agata-kaczmarek), MSc student
 * [Filip Kołodziejczyk](the-team.html#filip-kołodziejczyk), MSc student
 * [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), MSc student
 * [Tymoteusz Kwieciński](the-team.html#tymoteusz-kwiecinski), BSc student
@@ -581,6 +582,13 @@ GitHub: [FilipKolodziejczyk](https://github.com/FilipKolodziejczyk)
 
 LinkedIn: [filip-kołodziejczyk-00](https://www.linkedin.com/in/filip-kołodziejczyk-00/)
 
+### Agata Kaczmarek {-}
+
+<img src="images/agata_kaczmarek.png">
+
+MSc student in Data Science at Warsaw University of Technology. Interested in explainable artificial intelligence, computer vision and NLP. Currently working on PINEBERRY project for space operations.
+
+LinkedIn: [agata-kaczmarek](https://www.linkedin.com/in/agata-kaczmarek-090aa9182/)
 
 <!-- 
 ### Hanna Zdulska {-}
