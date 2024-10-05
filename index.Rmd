@@ -853,6 +853,18 @@ These are targeted at progressing responsible machine learning toward a secure a
 <img src="images/mi2-ares.png" style="width: 100%;"> -->
 
 
+### How to write a good motivation letter {-}
+
+If you would like to join our team, it is very important to prepare a good motivation letter. I get dozens of resumes a month and if they look like an automated letter generated with LLM sent to generic recipent I usually don't even write back to them.
+
+We don't do mass recruitment, we recruit 3-4 new people per year and they often work for us for a few years. If you want to work with us then prepare a good cover letter, and especially remember to:
+
+- write clearly what you are applying for. Whether it's a diploma thesis, summer internship, work on a project, which project. Be specific, because if you don't know what you want to do with us, no one will figure it out for you.
+- we value in the team people who are able to solve difficult problems. Don't write that you have done 40 projects, but describe the most difficult one you have completed.
+- if you have already worked somewhere, write what you did there and what you learned, not just the name of the company or position. 
+- before you send a letter review the list of our projects, the list of published articles, maybe talk to people who already work in our team and in your letter write in your own words why you want to work with us and at what
+
+
 ## Seminars {-}
 
 <div class="two-column-entry">
