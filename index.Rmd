@@ -80,6 +80,7 @@ document.body.classList.add("two-columns")
 * [Agata Kaczmarek](the-team.html#agata-kaczmarek), MSc student
 * [Filip Kołodziejczyk](the-team.html#filip-kołodziejczyk), MSc student
 * [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), MSc
+* [Mateusz Kwiatkowski](the-team.html#mateusz-kwiatkowski), MSc student
 * [Tymoteusz Kwieciński](the-team.html#tymoteusz-kwiecinski), BSc student
 * [Stanisław Łaniewski](the-team.html#stanisław-łaniewski), PhD student
 * [Wiktoria Mieleszczenko-Kowszewicz](the-team.html#wiktoria-mieleszczenko-kowszewicz), PhD
@@ -315,6 +316,17 @@ Google Scholar: [i_r7EUgAAAAJ](https://scholar.google.com/citations?user=i_r7EUg
 GitHub: [krzyzinskim](https://github.com/krzyzinskim)
 
 LinkedIn: [krzyzinskim](https://www.linkedin.com/in/krzyzinskim/)
+
+
+### Mateusz Kwiatkowski {-}
+
+<img src="images/mkwiatkowski.jpg" >
+
+Graduate in Mathematics and Data Analysis at the Warsaw University of Technology and Master's student in Machine Learning at the University of Warsaw. Enthusiast of game theory and optimisation. Particularly interested in practical applications of mathematics, especially in XAI and AI safety.
+
+GitHub: [MKwiatkowski25](https://github.com/MKwiatkowski25)
+
+LinkedIn: [mateusz-kwiatkowski](https://www.linkedin.com/in/mateusz-kwiatkowski-698042315/)
   
 
 ### Tymoteusz Kwieciński {-}
