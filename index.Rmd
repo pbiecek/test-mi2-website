@@ -78,6 +78,7 @@ document.body.classList.add("two-columns")
 * [Weronika Hryniewska-Guzik](the-team.html#weronika-hryniewska-guzik), PhD student
 * [Łukasz Jaremek](the-team.html#łukasz-jaremek), MSc student
 * [Agata Kaczmarek](the-team.html#agata-kaczmarek), MSc student
+* [Bartosz Kochański](the-team.html#bartosz-kochanski), PhD student
 * [Filip Kołodziejczyk](the-team.html#filip-kołodziejczyk), MSc student
 * [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), MSc
 * [Mateusz Kwiatkowski](the-team.html#mateusz-kwiatkowski), MSc student
@@ -270,6 +271,18 @@ I am working towards a Master’s degree in Machine Learning at University of Wa
 
 GitHub: [Kaczyniec](https://github.com/Kaczyniec)
 
+
+### Bartosz Kochański {-}
+
+<img src="images/bkochanski.jpg" >
+
+PhD candidate in computer science at Warsaw University of Technology. MSc in electronics and computer science in medicine. BSc in biomedical engineering. Interested in medical image processing and computer-aided diagnosis.
+
+Google Scholar: [Z2WIOZwAAAAJ](https://scholar.google.com/citations?hl=en&user=Z2WIOZwAAAAJ)
+
+Github: [bartoszkochanski](https://github.com/bartoszkochanski)
+
+LinkedIn: [bkochanski](https://www.linkedin.com/in/bkochanski/)
 
 ### Piotr Komorowski{-}
 
