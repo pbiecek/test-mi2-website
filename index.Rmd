@@ -923,6 +923,14 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 We introduce Agg^2Exp, a methodology for aggregating fine-grained voxel attributions of the segmentation model's predictions. Unlike classical explanation methods that primarily focus on the local feature attribution, Agg^2Exp enables a more comprehensive global view on the importance of predicted segments in 3D images. As a concrete use-case, we apply Agg^2Exp to discover knowledge acquired by the Swin UNEt TRansformer model trained on the TotalSegmentator v2 dataset for segmenting anatomical structures in computed tomography medical images.
 </div>
 
+<div>
+<img src="images/tlos2.png">
+<a href="https://doi.org/10.1016/j.artmed.2024.103026">Interpretable machine learning for time-to-event prediction in medicine and healthcare</a>
+<p>Hubert Baniecki, Bartlomiej Sobieski, Patryk Szatkowski, Przemyslaw Bombinski, Przemyslaw Biecek</p>
+<p><strong>Artificial Intelligence in Medicine (2025)</strong></p>
+We formally introduce time-dependent feature effects and global feature importance explanations. We show how post-hoc interpretation methods allow for finding biases in AI systems predicting length of stay using a novel multi-modal dataset created from 1235 X-ray images with textual radiology reports annotated by human experts. Moreover, we evaluate cancer survival models beyond predictive performance to include the importance of multi-omics feature groups based on a large-scale benchmark comprising 11 datasets from The Cancer Genome Atlas (TCGA).
+</div>
+
 
 <div>
 <img src="images/paper_ramai.png">
