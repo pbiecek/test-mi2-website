@@ -924,7 +924,7 @@ We introduce Agg^2Exp, a methodology for aggregating fine-grained voxel attribut
 </div>
 
 <div>
-<img src="images/tlos2.png">
+<img src="images/tlos2.jpg">
 <a href="https://doi.org/10.1016/j.artmed.2024.103026">Interpretable machine learning for time-to-event prediction in medicine and healthcare</a>
 <p>Hubert Baniecki, Bartlomiej Sobieski, Patryk Szatkowski, Przemyslaw Bombinski, Przemyslaw Biecek</p>
 <p><strong>Artificial Intelligence in Medicine (2025)</strong></p>
