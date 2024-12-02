@@ -37,7 +37,7 @@ Machine learning is like atomic energy. **We develop leaders, skills, methods, t
 #### Vision {-}
 
 MI² is a group of experts supporting global initiatives aimed at responsible and sustainable machine learning. We support the development of future leaders of responsible machine learning through internships, PhDs, postdoctoral fellowships and so on. We seek for research grants and business projects to conduct both scientific and applied research. We develop and maintain the software and infrastructure necessary to build responsible and sustainable ML. We develop cooperation with international teams working on similar topics. We support companies to implement best practices related to responsible modelling in their operation. We conduct workshops and training on responsible predictive modelling.
-
+ 
 
 ## The Team  {-}
 <script>
@@ -174,11 +174,11 @@ LinkedIn: [pbiecek](https://www.linkedin.com/in/pbiecek/)
 
 ### Mariusz Adamek {-}
 
-<img src="images/mariusz_adamek.jpg" >
+<img src="images/mariusz_adamek.jpg">
 
 I work at two Medical Universities (Silesia and Gdańsk) holding a Professorship in Medicine and Health Sciences. My interests are focused on lung cancer prevention and screening, the latter by means of low-dose computed tomography (LDCT) with special emphasis put on molecular biology methods, prediction models and image analysis aimed to enhance the performance of lung screening outcomes.
 
-Website: [www.mariuszadamek.io](https://www.mariuszadamek.io/)
+Google Scholar: [Y20ONtQAAAAJ](https://scholar.google.com/citations?user=Y20ONtQAAAAJ)
 
 
 ### Hubert Baniecki {-}
